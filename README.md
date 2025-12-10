@@ -280,6 +280,7 @@ Rspack and Rsbuild support most of the webpack loaders, such as:
 - [rsbuild-plugin-cdn-import](https://github.com/fuxichen/rsbuild-plugin-cdn-import): Import modules from CDN with Rsbuild plugin.
 - [rsbuild-plugin-mcp](https://github.com/colinaaa/rsbuild-plugin-mcp): Rsbuild plugin that enables a MCP server for your Rsbuild app to provide information about your setup and modules graphs.
 - [rsbuild-plugin-workspace-dev](https://github.com/rspack-contrib/rsbuild-plugin-workspace-dev): Start monorepo sub-projects in topological order.
+- [rsbuild-plugin-stylelint](https://github.com/zalishchuk/rsbuild-plugin-stylelint): Used to run Stylelint checks during the compilation.
 
 ### Rspress Plugins
 
