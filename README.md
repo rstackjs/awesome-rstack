@@ -263,6 +263,7 @@ Rspack and Rsbuild support most of the webpack loaders, such as:
 - [rsbuild-plugin-monaco-editor-nls](https://github.com/zackshen/rsbuild-plugin-monaco-editor-nls): An Rsbuild plugin to localize monaco-editor.
 - [rsbuild-plugin-auto-alias](https://github.com/jwyGithub/rsbuild-plugin-auto-alias): Automatically generate alias based on path.
 - [rsbuild-plugin-tailwindcss](https://github.com/rstackjs/rsbuild-plugin-tailwindcss): An Rsbuild plugin to integrate with Tailwind CSS.
+- [rsbuild-plugin-i18next-extractor](https://github.com/rstackjs/rsbuild-plugin-i18next-extractor): An Rsbuild plugin using [i18next-cli](https://github.com/i18next/i18next-cli) to extract i18n translations.
 - [@module-federation/rsbuild-plugin](https://module-federation.io/guide/basic/rsbuild): An Rsbuild plugin for integrating Module Federation v2.
 - [rsbuild-plugin-wasmpack](https://github.com/im-neiru/rsbuild-plugin-wasmpack): compile Rust crates to WebAssembly using wasm-pack.
 - [rsbuild-plugin-publint](https://github.com/rstackjs/rsbuild-plugin-publint): Run `publint` to lint npm packages after the build.
