@@ -185,6 +185,7 @@ Rspack and Rsbuild support most of the webpack loaders, such as:
 - [worker-rspack-loader](https://github.com/rstackjs/worker-rspack-loader): An Rspack loader that registers a script as a Web Worker.
 - [rsbuild-plugin-markdown-loader](https://github.com/aliezzahn/rsbuild-plugin-markdown-loader): Importing and rendering Markdown files as React components or pure HTML.
 - [@vue-vine/rspack-loader](https://github.com/vue-vine/vue-vine): Rspack loader for Vue Vine.
+- [@tailwindcss/webpack](https://github.com/tailwindlabs/tailwindcss/tree/main/packages/%40tailwindcss-webpack): A webpack loader for Tailwind CSS v4.
 
 ### Rsbuild Plugins
 
