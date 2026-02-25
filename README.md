@@ -289,6 +289,7 @@ Rspack and Rsbuild support most of the webpack loaders, such as:
 - [rsbuild-plugin-workspace-dev](https://github.com/rstackjs/rsbuild-plugin-workspace-dev): Start monorepo sub-projects in topological order.
 - [rsbuild-plugin-stylelint](https://github.com/zalishchuk/rsbuild-plugin-stylelint): Used to run Stylelint checks during the compilation.
 - [rsbuild-plugin-block-imports](https://github.com/malekabdelkader/rsbuild-plugin-block-imports): Rsbuild plugin to detect and block forbidden imports in Module Federation builds.
+- [rsbuild-plugin-compression](https://github.com/s-r-x/rsbuild-plugin-compression): Compress the assets using gzip, brotli or zstd.
 
 ### Rspress Plugins
 
