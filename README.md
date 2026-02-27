@@ -294,14 +294,16 @@ Rspack and Rsbuild support most of the webpack loaders, such as:
 
 ### Rspress Plugins
 
-- [@rspress/plugin-medium-zoom](https://rspress.rs/plugin/official-plugins/medium-zoom): [medium-zoom](https://github.com/francoischalifour/medium-zoom) plugin, used to zoom in images.
-- [@rspress/plugin-last-updated](https://rspress.rs/plugin/official-plugins/last-updated): Support for displaying the last update time of the article.
-- [@rspress/plugin-container-syntax](https://rspress.rs/plugin/official-plugins/container-syntax): Support container syntax in Markdown/MDX.
+- [@rspress/plugin-llms](https://rspress.rs/plugin/official-plugins/llms): Generates `llms.txt` and `llms-full.txt` files for your docs site.
+- [@rspress/plugin-sitemap](https://rspress.rs/plugin/official-plugins/sitemap): Generates `sitemap.xml` for your website.
+- [@rspress/plugin-client-redirects](https://rspress.rs/plugin/official-plugins/client-redirects): Supports client-side redirects for moved routes.
 - [@rspress/plugin-typedoc](https://rspress.rs/plugin/official-plugins/typedoc): Integrate [TypeDoc](https://github.com/TypeStrong/typedoc), used to generate API documentation of TS module automatically.
+- [@rspress/plugin-api-docgen](https://rspress.rs/plugin/official-plugins/api-docgen): Generates API documentation from TypeScript declarations.
 - [@rspress/plugin-preview](https://rspress.rs/plugin/official-plugins/preview): Support preview of code blocks in Markdown/MDX.
 - [@rspress/plugin-playground](https://rspress.rs/plugin/official-plugins/playground): Provide a real-time playground to preview the code blocks in Markdown/MDX files.
-- [@rspress/plugin-shiki](https://rspress.rs/plugin/official-plugins/shiki): Integrates [Shiki](https://github.com/shikijs/shiki) for code syntax highlighting.
 - [@rspress/plugin-rss](https://rspress.rs/plugin/official-plugins/rss): Generates RSS files for specific document pages with [feed](https://github.com/jpmonette/feed).
+- [@rspress/plugin-algolia](https://rspress.rs/plugin/official-plugins/algolia): Integrates Algolia DocSearch for site search.
+- [@rspress/plugin-twoslash](https://rspress.rs/plugin/official-plugins/twoslash): Adds TypeScript Twoslash support for code blocks.
 - [rspress-plugin-translate](https://github.com/byteHulk/rspress-plugin-translate): Automatically translate your content behind the scenes using GPT's.
 - [rspress-plugin-shiki](https://github.com/hunghg255/rspress-plugin-shiki): Rspress plugin shiki with transformer.
 - [rspress-plugin-remote-page](https://github.com/ulivz/rspress-plugin-remote-page): Load remote markdown file (e.g. README.md) onto your website.
