@@ -135,6 +135,7 @@ Upper-level frameworks or libraries that are powered by Rspack or connected to R
 - [html-inline-css-rspack-plugin](https://github.com/cbbfcd/html-inline-css-rspack-plugin) A Rspack plugin to convert external stylesheets into embedded stylesheets.
 - [html-rspack-skip-assets-plugin](https://github.com/cbbfcd/html-rspack-skip-assets-plugin) Adapt `html-webpack-skip-assets-plugin` to Rspack.
 - [rspack-plugin-retry-chunk-load](https://github.com/khodorammar/rspack-plugin-retry-chunk-load) Retry loading of chunks that failed to load.
+- [rspack-plugin-svg-sprite](https://github.com/yichenzhu1337/rspack-plugin-svg-sprite): SVG sprite plugin for Rspack — drop-in replacement for svg-sprite-loader.
 - [typia-rspack-plugin](https://github.com/colinaaa/typia-rspack-plugin): A Rspack plugin for `typia` - TypeScript transformer for runtime type checking and validation.
 - [sonda](https://github.com/filipsobol/sonda): Visualizer and analyzer for JavaScript and CSS bundles.
 - [rspack-deno-plugin](https://github.com/LonelySnowman/rspack-deno-plugin): Make Rspack run correctly in the deno environment.
@@ -269,6 +270,7 @@ Rspack and Rsbuild support most of the webpack loaders, such as:
 - [rsbuild-plugin-marko](https://github.com/ipseonet/rsbuild-plugin-marko): An Rsbuild plugin to provide support for the Marko template engine.
 - [rsbuild-plugin-monaco-editor-nls](https://github.com/zackshen/rsbuild-plugin-monaco-editor-nls): An Rsbuild plugin to localize monaco-editor.
 - [rsbuild-plugin-auto-alias](https://github.com/jwyGithub/rsbuild-plugin-auto-alias): Automatically generate alias based on path.
+- [rsbuild-plugin-svg-sprite](https://github.com/yichenzhu1337/rspack-plugin-svg-sprite): SVG sprite plugin for Rsbuild — drop-in replacement for svg-sprite-loader.
 - [rsbuild-plugin-tailwindcss](https://github.com/rstackjs/rsbuild-plugin-tailwindcss): An Rsbuild plugin to integrate with Tailwind CSS.
 - [rsbuild-plugin-i18next-extractor](https://github.com/rstackjs/rsbuild-plugin-i18next-extractor): An Rsbuild plugin using [i18next-cli](https://github.com/i18next/i18next-cli) to extract i18n translations.
 - [@module-federation/rsbuild-plugin](https://module-federation.io/guide/basic/rsbuild): An Rsbuild plugin for integrating Module Federation v2.
