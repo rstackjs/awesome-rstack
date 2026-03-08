@@ -135,6 +135,7 @@ Upper-level frameworks or libraries that are powered by Rspack or connected to R
 - [html-inline-css-rspack-plugin](https://github.com/cbbfcd/html-inline-css-rspack-plugin) A Rspack plugin to convert external stylesheets into embedded stylesheets.
 - [html-rspack-skip-assets-plugin](https://github.com/cbbfcd/html-rspack-skip-assets-plugin) Adapt `html-webpack-skip-assets-plugin` to Rspack.
 - [rspack-plugin-retry-chunk-load](https://github.com/khodorammar/rspack-plugin-retry-chunk-load) Retry loading of chunks that failed to load.
+- [rspack-plugin-svg-sprite](https://github.com/yichenzhu1337/rspack-plugin-svg-sprite): SVG sprite plugin for Rspack — drop-in replacement for svg-sprite-loader.
 - [typia-rspack-plugin](https://github.com/colinaaa/typia-rspack-plugin): A Rspack plugin for `typia` - TypeScript transformer for runtime type checking and validation.
 - [sonda](https://github.com/filipsobol/sonda): Visualizer and analyzer for JavaScript and CSS bundles.
 - [rspack-deno-plugin](https://github.com/LonelySnowman/rspack-deno-plugin): Make Rspack run correctly in the deno environment.
@@ -142,7 +143,6 @@ Upper-level frameworks or libraries that are powered by Rspack or connected to R
 - [@nx/module-federation](https://nx.dev/nx-api/module-federation/documents/nx-module-federation-plugin): Includes several Rspack plugins for Nx and Module Federation.
 - [zephyr-rspack-plugin](https://www.npmjs.com/package/zephyr-rspack-plugin): An Rspack plugin for deploying applications with Zephyr Cloud.
 - [rspack-s3-plugin](https://github.com/ts-codeworks/rspack-s3-plugin): A Rspack plugin for uploading compiled assets to Amazon S3 after build.
-- [rspack-plugin-svg-sprite](https://github.com/yichenzhu1337/rspack-plugin-svg-sprite): SVG sprite plugin for Rspack — drop-in replacement for svg-sprite-loader.
 
 Rspack and Rsbuild support most of the webpack plugins, such as:
 
