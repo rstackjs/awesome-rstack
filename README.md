@@ -213,6 +213,7 @@ Rspack and Rsbuild support most of the webpack loaders, such as:
 - [rspack-plugin-svg](https://github.com/fuxichen/rspack-plugin-svg): Rsbuild plugin to load SVG files as Vue components, using SVGO for optimization.
 - [@mutsuntsai/rsbuild-plugin-vue-ssg](https://github.com/mutsuntsai/rsbuild-plugin-vue-ssg): Generate Vue SSG contents and inject those into HTML for Rsbuild.
 - [@vue-vine/rsbuild-plugin](https://github.com/vue-vine/vue-vine): Rsbuild plugin for Vue Vine.
+- [@vizejs/rspack-plugin](https://github.com/ubugeeei/vize): High-Performance Vue.js Toolchain in Rust.
 
 #### For Preact
 
