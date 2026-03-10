@@ -43,7 +43,7 @@ Rstack is a unified JavaScript toolchain built around Rspack, with high performa
 ### Official Resources
 
 - [rstack-examples](https://github.com/rstackjs/rstack-examples): Examples for Rstack.
-- [rstack-design-resources](https://github.com/rstackjs/rsfamily-desgin-resources): Design resources for Rstack.
+- [rstack-design-resources](https://github.com/rstackjs/rstack-design-resources): Design resources for Rstack.
 
 ### Ecosystem
 
