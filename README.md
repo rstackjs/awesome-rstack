@@ -332,6 +332,7 @@ Rspack and Rsbuild support most of the webpack loaders, such as:
 - [rspress-plugin-font-figtree](https://github.com/maccuaa/rspress-plugin-font-figtree): Use Figtree as the default font in your Rspress website.
 - [zephyr-rspress-plugin](https://www.npmjs.com/package/zephyr-rspress-plugin): An Rspress plugin for deploying applications with Zephyr Cloud.
 - [rspress-language-tabs](https://github.com/maccuaa/rspress-language-tabs): An Rspress component for creating tabbed code examples with programming language icons.
+- [rspress-plugins-auto-meta](https://github.com/smileluck/rspress-plugins-auto-meta): Rspress plugin to automatically generate navigation metadata for your documentation.
 
 ### Unplugin
 
