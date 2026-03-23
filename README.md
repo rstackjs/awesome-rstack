@@ -70,6 +70,7 @@ Upper-level frameworks or libraries that are powered by Rspack or connected to R
 - [Kmi](https://github.com/kmijs/kmi): Based on Umi to provide Rspack support and other best practices.
 - [xmcp](https://github.com/basementstudio/xmcp): A framework for building and shipping MCP servers with TypeScript and Rspack.
 - [Meteor](https://github.com/meteor/meteor): An ultra-simple environment for building modern web applications with Rspack.
+- [Addfox](https://github.com/addfox/addfox): A browser extension framework built on Rsbuild.
 
 ## Skills
 
