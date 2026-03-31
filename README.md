@@ -71,6 +71,7 @@ Upper-level frameworks or libraries that are powered by Rspack or connected to R
 - [xmcp](https://github.com/basementstudio/xmcp): A framework for building and shipping MCP servers with TypeScript and Rspack.
 - [Meteor](https://github.com/meteor/meteor): An ultra-simple environment for building modern web applications with Rspack.
 - [Addfox](https://github.com/addfox/addfox): A browser extension framework built on Rsbuild.
+- [Shakapacker](https://github.com/shakacode/shakapacker): Make it easy to use the JavaScript pre-processor and Rspack to manage frontend JavaScript in Rails.
 
 ## Skills
 
