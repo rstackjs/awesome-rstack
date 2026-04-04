@@ -43,7 +43,7 @@ Rstack is a unified JavaScript toolchain built around Rspack, with high performa
 ### Official Resources
 
 - [rstack-examples](https://github.com/rstackjs/rstack-examples): Examples for Rstack.
-- [rstack-design-resources](https://github.com/rstackjs/rsfamily-desgin-resources): Design resources for Rstack.
+- [rstack-design-resources](https://github.com/rstackjs/rstack-design-resources): Design resources for Rstack.
 
 ### Ecosystem
 
@@ -65,11 +65,13 @@ Upper-level frameworks or libraries that are powered by Rspack or connected to R
 - [AUmi](https://github.com/atom-yang/aumi): Use Rsbuild as Umi's bundler instead of Webpack, get high performance of Rsbuild and all Umi ecosystem.
 - [electron-rsbuild](https://github.com/electron-rsbuild/electron-rsbuild): The Rsbuild-based electron build tool.
 - [Esmx](https://github.com/esmnext/esmx): Esmx is a next-generation micro-frontend framework based on native ESM, with no sandbox or runtime overhead, supporting multi-framework hybrid development and providing high-performance server-side rendering capabilities.
-- [Angular Rspack](https://github.com/nrwl/angular-rspack): Rspack plugin, Rsbuild plugin and tooling for Angular applications.
+- [Angular Rspack](https://www.npmjs.com/package/@nx/angular-rspack): Rspack plugin, Rsbuild plugin and tooling for Angular applications.
 - [PrevelteKit](https://github.com/tbocek/preveltekit): A lightweight, high-performance web application framework built on Svelte 5, featuring Server-Side Pre Rendering (SSPR) using Rsbuild as the build tool.
 - [Kmi](https://github.com/kmijs/kmi): Based on Umi to provide Rspack support and other best practices.
 - [xmcp](https://github.com/basementstudio/xmcp): A framework for building and shipping MCP servers with TypeScript and Rspack.
 - [Meteor](https://github.com/meteor/meteor): An ultra-simple environment for building modern web applications with Rspack.
+- [Addfox](https://github.com/addfox/addfox): A browser extension framework built on Rsbuild.
+- [Shakapacker](https://github.com/shakacode/shakapacker): Make it easy to use the JavaScript pre-processor and Rspack to manage frontend JavaScript in Rails.
 
 ## Skills
 
@@ -144,6 +146,7 @@ Upper-level frameworks or libraries that are powered by Rspack or connected to R
 - [@nx/module-federation](https://nx.dev/nx-api/module-federation/documents/nx-module-federation-plugin): Includes several Rspack plugins for Nx and Module Federation.
 - [zephyr-rspack-plugin](https://www.npmjs.com/package/zephyr-rspack-plugin): An Rspack plugin for deploying applications with Zephyr Cloud.
 - [rspack-s3-plugin](https://github.com/ts-codeworks/rspack-s3-plugin): A Rspack plugin for uploading compiled assets to Amazon S3 after build.
+- [compression-rspack-plugin](https://github.com/ramon-villain/compression-rspack-plugin): Rust-native parallel compression plugin for Rspack. Drop-in replacement for compression-webpack-plugin with gzip, brotli, deflate, and deflateRaw — all parallelized across CPU cores via Rust + rayon.
 
 Rspack and Rsbuild support most of the webpack plugins, such as:
 
@@ -213,6 +216,7 @@ Rspack and Rsbuild support most of the webpack loaders, such as:
 - [rspack-plugin-svg](https://github.com/fuxichen/rspack-plugin-svg): Rsbuild plugin to load SVG files as Vue components, using SVGO for optimization.
 - [@mutsuntsai/rsbuild-plugin-vue-ssg](https://github.com/mutsuntsai/rsbuild-plugin-vue-ssg): Generate Vue SSG contents and inject those into HTML for Rsbuild.
 - [@vue-vine/rsbuild-plugin](https://github.com/vue-vine/vue-vine): Rsbuild plugin for Vue Vine.
+- [@vizejs/rspack-plugin](https://github.com/ubugeeei/vize): High-Performance Vue.js Toolchain in Rust.
 
 #### For Preact
 
@@ -294,6 +298,7 @@ Rspack and Rsbuild support most of the webpack loaders, such as:
 - [rsbuild-plugin-stylelint](https://github.com/zalishchuk/rsbuild-plugin-stylelint): Used to run Stylelint checks during the compilation.
 - [rsbuild-plugin-block-imports](https://github.com/malekabdelkader/rsbuild-plugin-block-imports): Rsbuild plugin to detect and block forbidden imports in Module Federation builds.
 - [rsbuild-plugin-compression](https://github.com/s-r-x/rsbuild-plugin-compression): Compress the assets using gzip, brotli or zstd.
+- [rsbuild-plugin-pwa](https://github.com/s-r-x/rsbuild-plugin-pwa): Zero-config PWA support for rsbuild
 
 ### Rspress Plugins
 
@@ -331,6 +336,9 @@ Rspack and Rsbuild support most of the webpack loaders, such as:
 - [rspress-plugin-font-figtree](https://github.com/maccuaa/rspress-plugin-font-figtree): Use Figtree as the default font in your Rspress website.
 - [zephyr-rspress-plugin](https://www.npmjs.com/package/zephyr-rspress-plugin): An Rspress plugin for deploying applications with Zephyr Cloud.
 - [rspress-language-tabs](https://github.com/maccuaa/rspress-language-tabs): An Rspress component for creating tabbed code examples with programming language icons.
+- [rspress-plugin-auto-sidebar](https://github.com/buyfakett/rspress-plugin-auto-sidebar): Automatically generate the sidebar from the navbar configuration.
+- [rspress-plugin-giscus](https://github.com/buyfakett/rspress-plugin-giscus): Integrate [giscus](https://github.com/giscus/giscus) into Rspress, a comment system powered by GitHub Discussions.
+- [rspress-plugin-blog-list](https://github.com/buyfakett/rspress-plugin-blog-list): Integrate blog list into Rspress.
 
 ### Unplugin
 
@@ -379,6 +387,7 @@ Blogs from the Rspack team:
 
 English blogs:
 
+- [2026-03] [Rspress 2.0: AI-Native Documentation, Faster Startup and a Redesigned Theme](https://www.infoq.com/news/2026/03/rspress-docs-2-release)
 - [2026-01] [Transforming SVGs to Vue and Svelte Components: The SVGR Alternative for Rsbuild](https://hackernoon.com/transforming-svgs-to-vue-and-svelte-components-the-svgr-alternative-for-rsbuild)
 - [2025-12] [Goodbye Webpack, Hello Rspack (and 80% Faster Builds)](https://developers.mews.com/goodbye-webpack-hello-rspack-and-80-faster-builds/)
 - [2025-12] [The JavaScript Bundler Grand Prix](https://redmonk.com/kholterhoff/2025/12/16/javascript-bundler-grand-prix/)
