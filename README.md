@@ -111,6 +111,7 @@ Upper-level frameworks or libraries that are powered by Rspack or connected to R
 - [@trapar-waves/react-mantine-tailwind](https://github.com/Trapar-waves/react-mantine-tailwind): A React template integrating Mantine UI and Tailwind CSS for modern web development.
 - [@trapar-waves/vue-tailwind](https://github.com/Trapar-waves/vue-tailwind): A Vue 3 project with Tailwind CSS, Rsbuild and modern development tools.
 - [vue-nestjs-ssr-starter](https://github.com/pikadun/vue-nestjs-ssr-starter): A lightweight full-stack SSR starter with Vue 3, NestJS, Fastify, PrimeVue, and Rsbuild.
+- [react-nestjs-ssr-starter](https://github.com/pikadun/react-nestjs-ssr-starter): A lightweight full-stack starter for server-side rendering with NestJS and React.
 
 ### Rslib Starter
 
