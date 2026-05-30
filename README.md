@@ -150,8 +150,8 @@ Upper-level frameworks or libraries that are powered by Rspack or connected to R
 - [rspack-s3-plugin](https://github.com/ts-codeworks/rspack-s3-plugin): A Rspack plugin for uploading compiled assets to Amazon S3 after build.
 - [compression-rspack-plugin](https://github.com/ramon-villain/compression-rspack-plugin): Rust-native parallel compression plugin for Rspack. Drop-in replacement for compression-webpack-plugin with gzip, brotli, deflate, and deflateRaw — all parallelized across CPU cores via Rust + rayon.
 - [rspack-plugin-solid-svg](https://github.com/solarlime/rspack-plugin-solid-svg): Rspack plugin for transforming SVG files into SolidJS components.
-
-Rspack and Rsbuild support most of the webpack plugins, such as:
+- [@plugin-cra-proxy/rsbuild](https://github.com/robertpanvip/plugin-cra-proxy/tree/main/packages/rsbuild): A development proxy plugin for Rsbuild, mimicking Create React App proxy behavior.
+Rspack and Rsbuild support most of the webpack plugins.
 
 - [case-sensitive-paths-webpack-plugin](https://github.com/Urthen/case-sensitive-paths-webpack-plugin): Enforces case sensitive paths of all required modules.
 - [clean-webpack-plugin](https://github.com/johnagan/clean-webpack-plugin): Remove your build folder before building.
