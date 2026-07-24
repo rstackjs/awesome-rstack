@@ -314,7 +314,9 @@ Rspack and Rsbuild support most of the webpack loaders, such as:
 - [rsbuild-plugin-compression](https://github.com/s-r-x/rsbuild-plugin-compression): Compress the assets using gzip, brotli or zstd.
 - [rsbuild-plugin-pwa](https://github.com/s-r-x/rsbuild-plugin-pwa): Zero-config PWA support for rsbuild
 - [@plugin-cra-proxy/rsbuild](https://github.com/robertpanvip/plugin-cra-proxy/tree/main/packages/rsbuild): A development proxy plugin for Rsbuild, mimicking Create React App proxy behavior.
-
+- [rsbuild-plugin-oxlint](https://github.com/robertpanvip/rsbuild-plugin-lint/tree/main/packages/oxlint): Plugin for Integrating Oxlint into the Rsbuild Build Process.
+- [rsbuild-plugin-rslint](https://github.com/robertpanvip/rsbuild-plugin-lint/tree/main/packages/rslint): Plugin for Integrating rslint into the Rsbuild Build Process.
+- [rsbuild-plugin-biome](https://github.com/robertpanvip/rsbuild-plugin-lint/tree/main/packages/biome): Plugin for Integrating biome into the Rsbuild Build Process.
 ### Rspress Plugins
 
 - [@rspress/plugin-llms](https://rspress.rs/plugin/official-plugins/llms): Generates `llms.txt` and `llms-full.txt` files for your docs site.
