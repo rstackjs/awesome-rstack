@@ -359,6 +359,7 @@ Rspack and Rsbuild support most of the webpack loaders, such as:
 - [rspress-plugin-auto-sidebar](https://github.com/buyfakett/rspress-plugin-auto-sidebar): Automatically generate the sidebar from the navbar configuration.
 - [rspress-plugin-giscus](https://github.com/buyfakett/rspress-plugin-giscus): Integrate [giscus](https://github.com/giscus/giscus) into Rspress, a comment system powered by GitHub Discussions.
 - [rspress-plugin-blog-list](https://github.com/buyfakett/rspress-plugin-blog-list): Integrate blog list into Rspress.
+- [rspress-plugin-pdf-generator](https://github.com/MaxtuneLee/rspress-plugin-pdf-generator): Generates multi-language single-page or multi-page PDF documents from Rspress site during build process.
 
 ### Unplugin
 
