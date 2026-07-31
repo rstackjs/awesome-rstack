@@ -124,6 +124,7 @@ Upper-level frameworks or libraries that are powered by Rspack or connected to R
 - [rslib-npm-template](https://github.com/LLmoskk/rslib-npm-template): A starter template for developing React components with Rslib, featuring automated versioning and publishing using semantic-release.
 - [web-component-starter](https://github.com/holyfata/web-component-starter): A starter for developing Web components with Rslib, featuring using stencil and useful both in React and Vue.
 - [@trapar-waves/llm-template](https://github.com/Trapar-waves/llm-template): A template for LLM development integrating AI tools, TypeScript, Zod, and Rslib.
+- [rstack-library-starter](https://github.com/logue/rstack-library-starter): Production-ready starter for Rsbuild/Rslib library development. Built on Rstack (Rspack, Rslib, Rstest, Rslint), with structured documentation patterns (AGENTS.md, PLAN.md), comprehensive testing, and a minimal Pico.css demo site. Validated across multiple libraries.
 
 ## Plugins
 
@@ -414,7 +415,6 @@ Rspack and Rsbuild support most of the [unplugin](https://github.com/unplugin), 
 - [rspackify](https://github.com/SyMind/rspackify): Experience lightning-fast builds by instantly switching from webpack to Rspack.
 - [Spinpack](https://github.com/denniscual/spinpack): A CLI tool that turbocharges the developer server experience for CRA projects with Rspack.
 - [Jetpack](https://github.com/KidkArolis/jetpack): Jetpack wraps Rspack to create a smoother developer experience.
-
 ## Blogs
 
 ### Rspack Team
