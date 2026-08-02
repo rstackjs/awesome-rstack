@@ -67,6 +67,7 @@ Upper-level frameworks or libraries that are powered by Rspack or connected to R
 - [serverless-rspack](https://github.com/kitchenshelf/serverless-rspack): A Serverless framework plugin for zero-config JavaScript and TypeScript code bundling using the high performance Rust-based JavaScript bundler rspack.
 - [AUmi](https://github.com/atom-yang/aumi): Use Rsbuild as Umi's bundler instead of Webpack, get high performance of Rsbuild and all Umi ecosystem.
 - [electron-rsbuild](https://github.com/electron-rsbuild/electron-rsbuild): The Rsbuild-based electron build tool.
+- [Rselectron](https://github.com/guangzan/rselectron): An Rsbuild-first Electron development and build tool.
 - [Esmx](https://github.com/esmnext/esmx): Esmx is a next-generation micro-frontend framework based on native ESM, with no sandbox or runtime overhead, supporting multi-framework hybrid development and providing high-performance server-side rendering capabilities.
 - [Angular Rspack](https://www.npmjs.com/package/@nx/angular-rspack): Rspack plugin, Rsbuild plugin and tooling for Angular applications.
 - [PrevelteKit](https://github.com/tbocek/preveltekit): A lightweight, high-performance web application framework built on Svelte 5, featuring Server-Side Pre Rendering (SSPR) using Rsbuild as the build tool.
