@@ -367,6 +367,7 @@ Rspack and Rsbuild support most of the webpack loaders, such as:
 - [rspress-plugin-giscus](https://github.com/buyfakett/rspress-plugin-giscus): Integrate [giscus](https://github.com/giscus/giscus) into Rspress, a comment system powered by GitHub Discussions.
 - [rspress-plugin-blog-list](https://github.com/buyfakett/rspress-plugin-blog-list): Integrate blog list into Rspress.
 - [rspress-plugin-pdf-generator](https://github.com/MaxtuneLee/rspress-plugin-pdf-generator): Generates multi-language single-page or multi-page PDF documents from Rspress site during build process.
+- [rspress-plugin-viz](https://github.com/elecmonkey/rspress-plugin-viz): Add Graphviz support for Rspress using `@viz-js/viz`.
 
 ### Unplugin
 
