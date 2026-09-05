@@ -408,6 +408,7 @@ Rspack and Rsbuild support most of the [unplugin](https://github.com/unplugin), 
 ## Rstest Utilities
 
 - [rstest-fetch-mock](https://github.com/rstackjs/rstest-fetch-mock): Mock the global fetch API in Rstest tests.
+- [rstest-canvas-mock](https://github.com/rstackjs/rstest-canvas-mock): Mock the Canvas API in Rstest tests.
 
 ## Deployment
 
