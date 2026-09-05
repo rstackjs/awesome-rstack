@@ -343,7 +343,8 @@ Rspack and Rsbuild support most of the webpack loaders, such as:
 - [@rspress/plugin-rss](https://rspress.rs/plugin/official-plugins/rss): Generates RSS files for specific document pages with [feed](https://github.com/jpmonette/feed).
 - [@rspress/plugin-algolia](https://rspress.rs/plugin/official-plugins/algolia): Integrates Algolia DocSearch for site search.
 - [@rspress/plugin-twoslash](https://rspress.rs/plugin/official-plugins/twoslash): Adds TypeScript Twoslash support for code blocks.
-- [rspress-plugin-typesense](https://github.com/typesense/rspress-plugin-typesense): Integrates Typesense for typo-tolerant search in Rspress sites.
+- [rspress-plugin-typesense](https://github.com/typesense/rspress-plugin-typesense): Integrates Typesense for typo-tolerant search.
+- [@seshuk/rspress-plugin-scalar](https://github.com/maximseshuk/rspress-plugin-scalar): Renders interactive Scalar API reference pages from OpenAPI specifications.
 - [rspress-plugin-translate](https://github.com/byteHulk/rspress-plugin-translate): Automatically translate your content behind the scenes using GPT's.
 - [rspress-plugin-shiki](https://github.com/hunghg255/rspress-plugin-shiki): Rspress plugin shiki with transformer.
 - [rspress-plugin-remote-page](https://github.com/ulivz/rspress-plugin-remote-page): Load remote markdown file (e.g. README.md) onto your website.
