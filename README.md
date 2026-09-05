@@ -170,7 +170,6 @@ Upper-level frameworks or libraries that are powered by Rspack or connected to R
 - [dotenv-webpack](https://github.com/mrsteele/dotenv-webpack): A secure plugin that supports dotenv and other environment variables.
 - [eslint-rspack-plugin](https://github.com/rstackjs/eslint-rspack-plugin): Rspack plugin to run ESLint checks during the compilation.
 - [ts-checker-rspack-plugin](https://github.com/rstackjs/ts-checker-rspack-plugin): Runs TypeScript type checker on a separate process.
-- [html-rspack-plugin](https://github.com/rstackjs/html-rspack-plugin): Simplifies creation of HTML files to serve your bundles.
 - [node-polyfill-webpack-plugin](https://github.com/Richienb/node-polyfill-webpack-plugin): Polyfill Node.js core modules.
 - [webpack-bundle-analyzer](https://github.com/webpack-contrib/webpack-bundle-analyzer): Visualize size of webpack output files with an interactive zoomable treemap.
 - [webpackbar](https://github.com/unjs/webpackbar): Elegant ProgressBar and Profiler for Rspack.
@@ -314,7 +313,7 @@ Rspack and Rsbuild support most of the webpack loaders, such as:
 - [rsbuild-plugin-devtools-json](https://github.com/rstackjs/rsbuild-plugin-devtools-json): Generating `com.chrome.devtools.json` on the fly in the dev server.
 - [rsbuild-plugin-rempa](https://github.com/sumy7/rsbuild-plugin-rempa): A Rsbuild plugin designed to collect pages and generate a Multi-Page Application (MPA).
 - [rsbuild-plugin-iconify](https://github.com/pathscale/iconify-preload): A Rsbuild plugin that automatically generates optimized CSS with embedded SVG icons from Iconify.
-- [rsbuild-plugin-arethetypeswrong](https://github.com/colinaaa/rsbuild-plugin-arethetypeswrong): Checking TypeScript type definitions with `arethetypeswrong`.
+- [rsbuild-plugin-arethetypeswrong](https://github.com/rstackjs/rsbuild-plugin-arethetypeswrong): Checking TypeScript type definitions with `arethetypeswrong`.
 - [zephyr-rsbuild-plugin](https://www.npmjs.com/package/zephyr-rsbuild-plugin): An Rsbuild plugin for deploying applications with Zephyr Cloud.
 - [rsbuild-plugin-protobufjs](https://github.com/baranwang/rsbuild-plugin-protobufjs): An Rsbuild plugin that integrates `protobufjs`.
 - [rsbuild-plugin-cdn-import](https://github.com/fuxichen/rsbuild-plugin-cdn-import): Import modules from CDN with Rsbuild plugin.
@@ -416,7 +415,7 @@ Rspack and Rsbuild support most of the [unplugin](https://github.com/unplugin), 
 
 ## Libraries
 
-- [@rspack/dev-server](https://github.com/web-infra-dev/rspack-dev-server): Dev server for Rspack, provides the same API as webpack-dev-server.
+- [@rspack/dev-server](https://github.com/rstackjs/rspack-dev-server): Dev server for Rspack, provides the same API as webpack-dev-server.
 - [@rspack/dev-middleware](https://github.com/rstackjs/rspack-dev-middleware): A development middleware for Rspack.
 - [@rspack/resolver](https://github.com/rstackjs/rspack-resolver): A Rust port of enhanced-resolve.
 - [@rspack/lite-tapable](https://github.com/rstackjs/rspack-lite-tapable): Lite weight tapable for Rspack.
