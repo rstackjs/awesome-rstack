@@ -417,6 +417,7 @@ Rspack and Rsbuild support most of the [unplugin](https://github.com/unplugin), 
 
 - [rstest-fetch-mock](https://github.com/rstackjs/rstest-fetch-mock): Mock the global fetch API in Rstest tests.
 - [rstest-canvas-mock](https://github.com/rstackjs/rstest-canvas-mock): Mock the Canvas API in Rstest tests.
+- [rstest-sonar-reporter](https://github.com/onigoetz/rstest-sonar-reporter): A Rstest reporter that outputs test results in SonarQube's Generic Test Execution XML format.
 - [path-serializer](https://github.com/rstackjs/path-serializer): A snapshot serializer that normalizes system-specific paths for stable snapshots.
 
 ## Deployment
