@@ -399,6 +399,7 @@ Rspack and Rsbuild support most of the [unplugin](https://github.com/unplugin), 
 - [unplugin-build-meta](https://github.com/luxass/unplugin-build-meta): Import build metadata into your JavaScript/TypeScript projects.
 - [unplugin-dts](https://github.com/qmhc/unplugin-dts): An unplugin that generates declaration files (\*.d.ts).
 - [unplugin-icons](https://github.com/unplugin/unplugin-icons): Access thousands of icons as components on-demand universally.
+- [@iconify/unplugin](https://github.com/iconify/iconify-unplugin): Generate icon components on demand from Iconify.
 - [unplugin-favicons](https://github.com/anolilab/unplugin-favicons): Generate favicons for your project with caching for blazing fast rebuilds.
 - [unplugin-macros](https://github.com/unplugin/unplugin-macros): Macros plugin for bundlers.
 - [zod-compiler](https://github.com/gajus/zod-compiler): Compile Zod schemas into zero-overhead validation functions at build time.
