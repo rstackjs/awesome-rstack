@@ -49,6 +49,7 @@ Rstack is a unified JavaScript toolchain built around Rspack, with high performa
 - [rstack-design-resources](https://github.com/rstackjs/rstack-design-resources): Design resources for Rstack.
 - [rstack-editor](https://github.com/rstackjs/rstack-editor): Unified VS Code extension for Rstack.
 - [rsdoctor-action](https://github.com/web-infra-dev/rsdoctor-action): A GitHub Action for bundle size comparisons and pull request reports powered by Rsdoctor.
+- [rspack-binding-template](https://github.com/rstackjs/rspack-binding-template): A template for creating custom Rspack bindings with plugins and loaders written in Rust.
 
 ### Ecosystem
 
