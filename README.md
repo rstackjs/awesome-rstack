@@ -20,6 +20,7 @@
   - [Rspress Plugins](#rspress-plugins)
   - [Unplugin](#unplugin)
 - [Rstest Adapters](#rstest-adapters)
+- [Rstest Utilities](#rstest-utilities)
 - [Deployment](#deployment)
 - [Libraries](#libraries)
 - [Blogs](#blogs)
@@ -404,6 +405,10 @@ Rspack and Rsbuild support most of the [unplugin](https://github.com/unplugin), 
 - [@rstest/adapter-rsbuild](https://github.com/web-infra-dev/rstest/tree/main/packages/adapter-rsbuild): Rstest adapter for Rsbuild configuration.
 - [@rstest/adapter-rslib](https://github.com/web-infra-dev/rstest/tree/main/packages/adapter-rslib): Rstest adapter for Rslib configuration.
 - [@modern-js/adapter-rstest](https://github.com/web-infra-dev/modern.js/tree/main/packages/cli/adapter-rstest): Rstest adapter for Modern.js configuration.
+
+## Rstest Utilities
+
+- [rstest-fetch-mock](https://github.com/rstackjs/rstest-fetch-mock): Mock the global fetch API in Rstest tests.
 
 ## Deployment
 
