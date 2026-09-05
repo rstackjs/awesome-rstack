@@ -81,6 +81,7 @@ Upper-level frameworks or libraries that are powered by Rspack or connected to R
 - [Meteor](https://github.com/meteor/meteor): An ultra-simple environment for building modern web applications with Rspack.
 - [Addfox](https://github.com/addfox/addfox): A browser extension framework built on Rsbuild.
 - [Shakapacker](https://github.com/shakacode/shakapacker): Make it easy to use the JavaScript pre-processor and Rspack to manage frontend JavaScript in Rails.
+- [Symfony Reprise](https://github.com/symfony/reprise): Integrates Rsbuild with Symfony.
 - [The Boring JavaScript Stack](https://github.com/sailscastshq/boring-stack): An opinionated full-stack JavaScript starter built with Sails.js, Inertia.js, and Rsbuild-powered frontend assets.
 - [Rshono](https://github.com/rshono/rshono): Minimalist web framework based on Hono, Rspack and React Server Components.
 
