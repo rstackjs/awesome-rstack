@@ -84,6 +84,7 @@ Upper-level frameworks or libraries that are powered by Rspack or connected to R
 - [Symfony Reprise](https://github.com/symfony/reprise): Integrates Rsbuild with Symfony.
 - [The Boring JavaScript Stack](https://github.com/sailscastshq/boring-stack): An opinionated full-stack JavaScript starter built with Sails.js, Inertia.js, and Rsbuild-powered frontend assets.
 - [Rshono](https://github.com/rshono/rshono): Minimalist web framework based on Hono, Rspack and React Server Components.
+- [effective-rsc](https://github.com/nikhilsnayak/effective-rsc): An Effect-native React Server Components framework for Bun, built on Rspack's native RSC support.
 
 ## Skills
 
