@@ -334,6 +334,7 @@ Rspack and Rsbuild support most of the webpack loaders, such as:
 - [rsbuild-plugin-biome](https://github.com/robertpanvip/rsbuild-plugin-lint/tree/main/packages/biome): Plugin for Integrating Biome into the Rsbuild Build Process.
 - [@octanejs/rsbuild-plugin](https://octanejs.dev/docs/build-tools#rsbuild): Rsbuild metaframework plugin for Octane, including routing, SSR, hydration, and production builds.
 - [@golar-rstack/rsbuild](https://github.com/OskarLebuda/golar-rstack-plugin/tree/main/packages/rsbuild): Runs golar type checking and type-aware linting in a separate process as an Rsbuild plugin.
+- [rsbuild-plugin-ssg](https://github.com/jhanca-vm/rsbuild-plugin-ssg): Prerender pages at build time with zero-JS by default and Islands Architecture support.
 
 ### Rspress Plugins
 
