@@ -406,6 +406,7 @@ Rspack and Rsbuild support most of the [unplugin](https://github.com/unplugin), 
 - [unplugin-favicons](https://github.com/anolilab/unplugin-favicons): Generate favicons for your project with caching for blazing fast rebuilds.
 - [unplugin-macros](https://github.com/unplugin/unplugin-macros): Macros plugin for bundlers.
 - [zod-compiler](https://github.com/gajus/zod-compiler): Compile Zod schemas into zero-overhead validation functions at build time.
+- [unplugin-ata](https://github.com/ata-core/unplugin-ata): Compile JSON Schema files into standalone ata-validator modules with TypeScript declarations at build time.
 - [unplugin-oxc](https://github.com/unplugin/unplugin-oxc): Transform and minify JavaScript and TypeScript with Oxc.
 
 ## Rstest Adapters
