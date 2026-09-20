@@ -308,10 +308,8 @@ Rspack and Rsbuild support most of the webpack loaders, such as:
 - [rsbuild-plugin-i18next-extractor](https://github.com/rstackjs/rsbuild-plugin-i18next-extractor): An Rsbuild plugin using [i18next-cli](https://github.com/i18next/i18next-cli) to extract i18n translations.
 - [rsbuild-auto-i18n-plugin](https://github.com/auto-i18n/auto-i18n-translation-plugins): An Rsbuild plugin for automatic translation with support for multiple translation services and custom translators.
 - [@module-federation/rsbuild-plugin](https://module-federation.io/guide/basic/rsbuild): An Rsbuild plugin for integrating Module Federation v2.
-- [rsbuild-plugin-fusion](https://github.com/mpaynesecurity/rsbuild-plugin-fusion): Run server code directly from any
-  Rsbuild supported UI framework
-- [rsbuild-plugin-hydra](https://github.com/mpaynesecurity/rsbuild-plugin-hydra): Turn any Rsbuild app into a
-  lightweight fullstack framework.
+- [rsbuild-plugin-fusion](https://github.com/mpaynesecurity/rsbuild-plugin-fusion): Run server code directly from any Rsbuild supported UI framework.
+- [rsbuild-plugin-hydra](https://github.com/mpaynesecurity/rsbuild-plugin-hydra): Turn any Rsbuild app into a lightweight fullstack framework.
 - [rsbuild-plugin-wasmpack](https://github.com/im-neiru/rsbuild-plugin-wasmpack): compile Rust crates to WebAssembly using wasm-pack.
 - [rsbuild-plugin-publint](https://github.com/rstackjs/rsbuild-plugin-publint): Run `publint` to lint npm packages after the build.
 - [rsbuild-plugin-aws-lambda](https://github.com/wxiaoyun/rsbuild-plugin-aws-lambda): An Rsbuild plugin to configure rsbuild to bundle js assets suitable for AWS Lambda.
