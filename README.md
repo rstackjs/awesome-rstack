@@ -176,6 +176,7 @@ Upper-level frameworks or libraries that are powered by Rspack or connected to R
 - [node-polyfill-webpack-plugin](https://github.com/Richienb/node-polyfill-webpack-plugin): Polyfill Node.js core modules.
 - [webpack-bundle-analyzer](https://github.com/webpack-contrib/webpack-bundle-analyzer): Visualize size of webpack output files with an interactive zoomable treemap.
 - [webpackbar](https://github.com/unjs/webpackbar): Elegant ProgressBar and Profiler for Rspack.
+- [rspack-unocss-plugin](https://github.com/umbrella22/rspack-unocss-plugin): Native UnoCSS integration for Rspack with virtual CSS modules and native CSS processing.
 - [@unocss/webpack](https://github.com/unocss/unocss/tree/main/packages-integrations/webpack): Plugin for UnoCSS.
 - [@vanilla-extract/webpack-plugin](https://github.com/vanilla-extract-css/vanilla-extract): Integrating vanilla-extract with webpack / Rspack.
 - [@datadog/rspack-plugin](https://github.com/DataDog/build-plugins): A Rspack plugin to interact with Datadog from your builds.
