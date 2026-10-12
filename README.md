@@ -45,46 +45,46 @@ Rstack is a unified JavaScript toolchain built around Rspack, with high performa
 
 ### Official Resources
 
-- [rstack-examples](https://github.com/rstackjs/rstack-examples): Examples for Rstack.
-- [rstack-design-resources](https://github.com/rstackjs/rstack-design-resources): Design resources for Rstack.
-- [rstack-editor](https://github.com/rstackjs/rstack-editor): Unified VS Code extension for Rstack.
 - [rsdoctor-action](https://github.com/web-infra-dev/rsdoctor-action): A GitHub Action for bundle size comparisons and pull request reports powered by Rsdoctor.
 - [rspack-binding-template](https://github.com/rstackjs/rspack-binding-template): A template for creating custom Rspack bindings with plugins and loaders written in Rust.
+- [rstack-design-resources](https://github.com/rstackjs/rstack-design-resources): Design resources for Rstack.
+- [rstack-editor](https://github.com/rstackjs/rstack-editor): Unified VS Code extension for Rstack.
+- [rstack-examples](https://github.com/rstackjs/rstack-examples): Examples for Rstack.
 
 ### Ecosystem
 
 Upper-level frameworks or libraries that are powered by Rspack or connected to Rspack:
 
-- [Rspeedy](https://lynxjs.org/rspeedy/): The Rspack-based build tool designed specifically for [Lynx](https://lynxjs.org/) applications.
 - [Modern.js](https://modernjs.dev/): A progressive React framework for web development.
-- [storybook-rsbuild](https://github.com/rstackjs/storybook-rsbuild): Storybook builder powered by Rsbuild.
-- [@nx/rspack](https://nx.dev/nx-api/rspack): The Nx plugin for Rspack.
-- [@nx/rsbuild](https://nx.dev/nx-api/rsbuild): The Nx plugin for Rsbuild.
-- [Docusaurus](https://docusaurus.io/blog/releases/3.6#docusaurus-faster): Help you ship a beautiful documentation site in no time.
-- [TanStack Start](https://tanstack.com/start/latest): Full-stack Framework powered by TanStack Router for React and Solid.
 - [next-rspack](https://rspack.rs/guide/tech/next): Use Rspack as the bundler for Next.js.
-- [Nuxt](https://nuxt.com/): An intuitive Vue framework for creating web applications and websites with Vue.js. Install [@nuxt/rspack-builder](https://www.npmjs.com/package/@nuxt/rspack-builder) to use Rspack as the bundler for Nuxt.
-- [Re.Pack](https://github.com/callstack/repack): A toolkit to build your React Native application with Rspack.
-- [EMP 3.0](https://empjs.dev/): A high-performance enterprise-level front-end build system built on the Rust ecosystem.
-- [pareto](https://github.com/childrentime/pareto): A lightweight SSR framework centered on stream rendering.
-- [cypress-rspack-dev-server](https://www.npmjs.com/package/cypress-rspack-dev-server): Cypress Component-testing with Rust-based web bundler Rspack's dev server.
-- [Extension.js](https://github.com/extension-js/extension.js): Create, develop, build, and preview browser extensions for Chrome, Firefox, and Edge with Rspack.
-- [serverless-rspack](https://github.com/kitchenshelf/serverless-rspack): A Serverless framework plugin for zero-config JavaScript and TypeScript code bundling using the high performance Rust-based JavaScript bundler rspack.
-- [AUmi](https://github.com/atom-yang/aumi): Use Rsbuild as Umi's bundler instead of Webpack, get high performance of Rsbuild and all Umi ecosystem.
-- [electron-rsbuild](https://github.com/electron-rsbuild/electron-rsbuild): The Rsbuild-based electron build tool.
-- [Rselectron](https://github.com/guangzan/rselectron): An Rsbuild-first Electron development and build tool.
-- [Esmx](https://github.com/esmnext/esmx): Esmx is a next-generation micro-frontend framework based on native ESM, with no sandbox or runtime overhead, supporting multi-framework hybrid development and providing high-performance server-side rendering capabilities.
-- [Angular Rspack](https://www.npmjs.com/package/@nx/angular-rspack): Rspack plugin, Rsbuild plugin and tooling for Angular applications.
-- [PrevelteKit](https://github.com/tbocek/preveltekit): A lightweight, high-performance web application framework built on Svelte 5, featuring Server-Side Pre Rendering (SSPR) using Rsbuild as the build tool.
-- [Kmi](https://github.com/kmijs/kmi): Based on Umi to provide Rspack support and other best practices.
-- [xmcp](https://github.com/basementstudio/xmcp): A framework for building and shipping MCP servers with TypeScript and Rspack.
-- [Meteor](https://github.com/meteor/meteor): An ultra-simple environment for building modern web applications with Rspack.
+- [storybook-rsbuild](https://github.com/rstackjs/storybook-rsbuild): Storybook builder powered by Rsbuild.
+- [@nx/rsbuild](https://nx.dev/nx-api/rsbuild): The Nx plugin for Rsbuild.
+- [@nx/rspack](https://nx.dev/nx-api/rspack): The Nx plugin for Rspack.
 - [Addfox](https://github.com/addfox/addfox): A browser extension framework built on Rsbuild.
+- [Angular Rspack](https://www.npmjs.com/package/@nx/angular-rspack): Rspack plugin, Rsbuild plugin and tooling for Angular applications.
+- [AUmi](https://github.com/atom-yang/aumi): Use Rsbuild as Umi's bundler instead of Webpack, get high performance of Rsbuild and all Umi ecosystem.
+- [cypress-rspack-dev-server](https://www.npmjs.com/package/cypress-rspack-dev-server): Cypress Component-testing with Rust-based web bundler Rspack's dev server.
+- [Docusaurus](https://docusaurus.io/blog/releases/3.6#docusaurus-faster): Help you ship a beautiful documentation site in no time.
+- [effective-rsc](https://github.com/nikhilsnayak/effective-rsc): An Effect-native React Server Components framework for Bun, built on Rspack's native RSC support.
+- [electron-rsbuild](https://github.com/electron-rsbuild/electron-rsbuild): The Rsbuild-based electron build tool.
+- [EMP 3.0](https://empjs.dev/): A high-performance enterprise-level front-end build system built on the Rust ecosystem.
+- [Esmx](https://github.com/esmnext/esmx): Esmx is a next-generation micro-frontend framework based on native ESM, with no sandbox or runtime overhead, supporting multi-framework hybrid development and providing high-performance server-side rendering capabilities.
+- [Extension.js](https://github.com/extension-js/extension.js): Create, develop, build, and preview browser extensions for Chrome, Firefox, and Edge with Rspack.
+- [Kmi](https://github.com/kmijs/kmi): Based on Umi to provide Rspack support and other best practices.
+- [Meteor](https://github.com/meteor/meteor): An ultra-simple environment for building modern web applications with Rspack.
+- [Nuxt](https://nuxt.com/): An intuitive Vue framework for creating web applications and websites with Vue.js. Install [@nuxt/rspack-builder](https://www.npmjs.com/package/@nuxt/rspack-builder) to use Rspack as the bundler for Nuxt.
+- [pareto](https://github.com/childrentime/pareto): A lightweight SSR framework centered on stream rendering.
+- [PrevelteKit](https://github.com/tbocek/preveltekit): A lightweight, high-performance web application framework built on Svelte 5, featuring Server-Side Pre Rendering (SSPR) using Rsbuild as the build tool.
+- [Re.Pack](https://github.com/callstack/repack): A toolkit to build your React Native application with Rspack.
+- [Rselectron](https://github.com/guangzan/rselectron): An Rsbuild-first Electron development and build tool.
+- [Rshono](https://github.com/rshono/rshono): Minimalist web framework based on Hono, Rspack and React Server Components.
+- [Rspeedy](https://lynxjs.org/rspeedy/): The Rspack-based build tool designed specifically for [Lynx](https://lynxjs.org/) applications.
+- [serverless-rspack](https://github.com/kitchenshelf/serverless-rspack): A Serverless framework plugin for zero-config JavaScript and TypeScript code bundling using the high performance Rust-based JavaScript bundler rspack.
 - [Shakapacker](https://github.com/shakacode/shakapacker): Make it easy to use the JavaScript pre-processor and Rspack to manage frontend JavaScript in Rails.
 - [Symfony Reprise](https://github.com/symfony/reprise): Integrates Rsbuild with Symfony.
+- [TanStack Start](https://tanstack.com/start/latest): Full-stack Framework powered by TanStack Router for React and Solid.
 - [The Boring JavaScript Stack](https://github.com/sailscastshq/boring-stack): An opinionated full-stack JavaScript starter built with Sails.js, Inertia.js, and Rsbuild-powered frontend assets.
-- [Rshono](https://github.com/rshono/rshono): Minimalist web framework based on Hono, Rspack and React Server Components.
-- [effective-rsc](https://github.com/nikhilsnayak/effective-rsc): An Effect-native React Server Components framework for Bun, built on Rspack's native RSC support.
+- [xmcp](https://github.com/basementstudio/xmcp): A framework for building and shipping MCP servers with TypeScript and Rspack.
 
 ## Skills
 
@@ -94,46 +94,46 @@ Upper-level frameworks or libraries that are powered by Rspack or connected to R
 
 ### Rspack Starter
 
-- [nuxt-rspack-starter](https://github.com/danielroe/nuxt-rspack-starter): Nuxt starter with Rspack.
-- [rspack-react-router-starter](https://github.com/ulivz/rspack-react-router-starter)
-- [rspack for create-react-app](https://github.com/yanhaijing/rspack-cra)
 - [electron-forge-rspack-template](https://github.com/noshower/electron-forge-rspack-template)
-- [shark](https://github.com/h7ml/shark): A React project with Rspack, Ant Design, Ant Design Pro Components, Antd@5 React@18 AntV G2Plot, ahooks, react-use, Axios, i18next, localforage, Mock.js, NProgress, and more.
 - [electron-react-rspack](https://github.com/RyanProMax/electron-react-rspack): An Electron boilerplate including TypeScript, React, Rspack and ESLint.
-- [ng-rspack](https://github.com/edbzn/ng-rspack): Angular + Rspack + Nx + Module Federation 2.0.
-- [r2h](https://github.com/bdxygy/r2h): A blazing-fast SSR starter powered by React 19, Rspack, and Hono.
-- [vue-admin-better](https://github.com/zxwk1998/vue-admin-better): A Vue 3 admin based on Rspack.
 - [electron-react-rspack-boilerplate](https://github.com/Sovea/electron-react-rspack-boilerplate): A modern, unopinionated, pure boilerplate for developing electron app with Rspack, React, TypeScript.
+- [ng-rspack](https://github.com/edbzn/ng-rspack): Angular + Rspack + Nx + Module Federation 2.0.
+- [nuxt-rspack-starter](https://github.com/danielroe/nuxt-rspack-starter): Nuxt starter with Rspack.
+- [r2h](https://github.com/bdxygy/r2h): A blazing-fast SSR starter powered by React 19, Rspack, and Hono.
+- [rspack for create-react-app](https://github.com/yanhaijing/rspack-cra)
+- [rspack-react-router-starter](https://github.com/ulivz/rspack-react-router-starter)
+- [shark](https://github.com/h7ml/shark): A React project with Rspack, Ant Design, Ant Design Pro Components, Antd@5 React@18 AntV G2Plot, ahooks, react-use, Axios, i18next, localforage, Mock.js, NProgress, and more.
+- [vue-admin-better](https://github.com/zxwk1998/vue-admin-better): A Vue 3 admin based on Rspack.
 
 ### Rsbuild Starter
 
-- [ding-dong](https://github.com/src-thk/ding-dong): A lightning-fast, modern React template supercharged with Rsbuild.
-- [react-tailwind-rsbuild-boilerplate](https://github.com/alonronin/react-tailwind-rsbuild-boilerplate): React + React Router + Tailwind CSS with Rsbuild boilerplate.
-- [TanStacked](https://github.com/mohmmedraad/TanStacked): React + Tanstack Router + Shadcn + Tailwind CSS v4 And Biome with Rsbuild boilerplate.
-- [rsbuild_vue3_h5_template](https://github.com/DMaiGit/rsbuild_vue3_h5_template): A project template for Vue 3. It includes popular libraries such as Axios, Pinia, Vant, and Vue Router.
-- [rsbuild-chrome-extension-boilerplate-react](https://github.com/filc-dev/rsbuild-chrome-extension-boilerplate-react): Chrome extension boilerplate for Rsbuild.
 - [rsbuild-plugin-template](https://github.com/rstackjs/rsbuild-plugin-template): Use this template to create your own Rsbuild plugin.
-- [react-antd-admin-pro](https://github.com/cl1107/react-antd-admin-pro): An admin project template for React. It's built with Rsbuild, React 18, TypeScript 5, antd 5, and React Router.
-- [umi-rsbuild](https://github.com/atom-yang/aumi-example): `Umi` + `Rsbuild`, A `Umi` project integrated with `Rsbuild`, you can use `Umi` and its plugins with the same experiences as `Umi` + `Webpack` are.
-- [rsbuild-react-chakra-starter](https://github.com/sozonome/rsbuild-react-chakra-starter): initialize react app with rsbuild, Chakra UI and TypeScript setup. Configured with awesome toolings: Biome, Husky + Lint-Staged, Commitlint, and Turbo.
-- [template-rsbuild-react-ts-tailwind](https://github.com/RoyRao2333/template-rsbuild-react-ts-tailwind): Rsbuild starter template with React + Typescript + TailwindCSS + Biome.
-- [rsbuild-turborepo-react-module-federation](https://github.com/nguyenbatranvan/rspack-turbo-module-federation): Rsbuild + Turborepo + Biome + Zustand + React for module federation.
-- [@trapar-waves/react-tailwind](https://github.com/Trapar-waves/react-tailwind): A modern UI development template integrating React and Tailwind CSS, with Rsbuild, TypeScript, ESLint.
 - [@trapar-waves/react-antd-pro](https://github.com/Trapar-waves/react-antd-pro): A React-based project leveraging Ant Design Pro, TanStack tools, and Rsbuild.
-- [@trapar-waves/react-tanstack](https://github.com/Trapar-waves/react-tanstack): A React template leveraging TanStack tools, with TypeScript, Tailwind CSS, and Rsbuild integration.
 - [@trapar-waves/react-mantine-tailwind](https://github.com/Trapar-waves/react-mantine-tailwind): A React template integrating Mantine UI and Tailwind CSS for modern web development.
+- [@trapar-waves/react-tailwind](https://github.com/Trapar-waves/react-tailwind): A modern UI development template integrating React and Tailwind CSS, with Rsbuild, TypeScript, ESLint.
+- [@trapar-waves/react-tanstack](https://github.com/Trapar-waves/react-tanstack): A React template leveraging TanStack tools, with TypeScript, Tailwind CSS, and Rsbuild integration.
 - [@trapar-waves/vue-tailwind](https://github.com/Trapar-waves/vue-tailwind): A Vue 3 project with Tailwind CSS, Rsbuild and modern development tools.
-- [vue-nestjs-ssr-starter](https://github.com/pikadun/vue-nestjs-ssr-starter): A lightweight full-stack SSR starter with Vue 3, NestJS, Fastify, PrimeVue, and Rsbuild.
+- [ding-dong](https://github.com/src-thk/ding-dong): A lightning-fast, modern React template supercharged with Rsbuild.
+- [react-antd-admin-pro](https://github.com/cl1107/react-antd-admin-pro): An admin project template for React. It's built with Rsbuild, React 18, TypeScript 5, antd 5, and React Router.
 - [react-nestjs-ssr-starter](https://github.com/pikadun/react-nestjs-ssr-starter): A lightweight full-stack starter for server-side rendering with NestJS and React.
+- [react-tailwind-rsbuild-boilerplate](https://github.com/alonronin/react-tailwind-rsbuild-boilerplate): React + React Router + Tailwind CSS with Rsbuild boilerplate.
+- [rsbuild-chrome-extension-boilerplate-react](https://github.com/filc-dev/rsbuild-chrome-extension-boilerplate-react): Chrome extension boilerplate for Rsbuild.
+- [rsbuild-react-chakra-starter](https://github.com/sozonome/rsbuild-react-chakra-starter): initialize react app with rsbuild, Chakra UI and TypeScript setup. Configured with awesome toolings: Biome, Husky + Lint-Staged, Commitlint, and Turbo.
+- [rsbuild-turborepo-react-module-federation](https://github.com/nguyenbatranvan/rspack-turbo-module-federation): Rsbuild + Turborepo + Biome + Zustand + React for module federation.
 - [rsbuild-vue-starter](https://github.com/logue/rsbuild-vue-starter): A simple starter template using the Vue + Vue-router + Pinia stack. Includes built-in formatting with rslint and testing with rstest.
+- [rsbuild_vue3_h5_template](https://github.com/DMaiGit/rsbuild_vue3_h5_template): A project template for Vue 3. It includes popular libraries such as Axios, Pinia, Vant, and Vue Router.
+- [TanStacked](https://github.com/mohmmedraad/TanStacked): React + Tanstack Router + Shadcn + Tailwind CSS v4 And Biome with Rsbuild boilerplate.
+- [template-rsbuild-react-ts-tailwind](https://github.com/RoyRao2333/template-rsbuild-react-ts-tailwind): Rsbuild starter template with React + Typescript + TailwindCSS + Biome.
+- [umi-rsbuild](https://github.com/atom-yang/aumi-example): `Umi` + `Rsbuild`, A `Umi` project integrated with `Rsbuild`, you can use `Umi` and its plugins with the same experiences as `Umi` + `Webpack` are.
+- [vue-nestjs-ssr-starter](https://github.com/pikadun/vue-nestjs-ssr-starter): A lightweight full-stack SSR starter with Vue 3, NestJS, Fastify, PrimeVue, and Rsbuild.
 
 ### Rslib Starter
 
-- [ts-lib-starter](https://github.com/ulivz/ts-lib-starter): A hassle-free TS library template, powered by Rslib.
-- [rslib-npm-template](https://github.com/LLmoskk/rslib-npm-template): A starter template for developing React components with Rslib, featuring automated versioning and publishing using semantic-release.
-- [web-component-starter](https://github.com/holyfata/web-component-starter): A starter for developing Web components with Rslib, featuring using stencil and useful both in React and Vue.
 - [@trapar-waves/llm-template](https://github.com/Trapar-waves/llm-template): A template for LLM development integrating AI tools, TypeScript, Zod, and Rslib.
+- [rslib-npm-template](https://github.com/LLmoskk/rslib-npm-template): A starter template for developing React components with Rslib, featuring automated versioning and publishing using semantic-release.
 - [rstack-library-starter](https://github.com/logue/rstack-library-starter): Production-ready starter for Rsbuild/Rslib library development. Built on Rstack (Rspack, Rslib, Rstest, Rslint), with structured documentation patterns (AGENTS.md, PLAN.md), comprehensive testing, and a minimal Pico.css demo site. Validated across multiple libraries.
+- [ts-lib-starter](https://github.com/ulivz/ts-lib-starter): A hassle-free TS library template, powered by Rslib.
+- [web-component-starter](https://github.com/holyfata/web-component-starter): A starter for developing Web components with Rslib, featuring using stencil and useful both in React and Vue.
 
 ## Plugins
 
@@ -416,18 +416,18 @@ Rspack and Rsbuild support most of the [unplugin](https://github.com/unplugin), 
 
 ## Rstest Adapters
 
-- [@rstest/adapter-rspack](https://github.com/web-infra-dev/rstest/tree/main/packages/adapter-rspack): Rstest adapter for Rspack configuration.
+- [@modern-js/adapter-rstest](https://github.com/web-infra-dev/modern.js/tree/main/packages/cli/adapter-rstest): Rstest adapter for Modern.js configuration.
 - [@rstest/adapter-rsbuild](https://github.com/web-infra-dev/rstest/tree/main/packages/adapter-rsbuild): Rstest adapter for Rsbuild configuration.
 - [@rstest/adapter-rslib](https://github.com/web-infra-dev/rstest/tree/main/packages/adapter-rslib): Rstest adapter for Rslib configuration.
-- [@modern-js/adapter-rstest](https://github.com/web-infra-dev/modern.js/tree/main/packages/cli/adapter-rstest): Rstest adapter for Modern.js configuration.
+- [@rstest/adapter-rspack](https://github.com/web-infra-dev/rstest/tree/main/packages/adapter-rspack): Rstest adapter for Rspack configuration.
 
 ## Rstest Utilities
 
-- [rstest-fetch-mock](https://github.com/rstackjs/rstest-fetch-mock): Mock the global fetch API in Rstest tests.
-- [rstest-canvas-mock](https://github.com/rstackjs/rstest-canvas-mock): Mock the Canvas API in Rstest tests.
-- [rstest-sonar-reporter](https://github.com/onigoetz/rstest-sonar-reporter): A Rstest reporter that outputs test results in SonarQube's Generic Test Execution XML format.
 - [path-serializer](https://github.com/rstackjs/path-serializer): A snapshot serializer that normalizes system-specific paths for stable snapshots.
+- [rstest-canvas-mock](https://github.com/rstackjs/rstest-canvas-mock): Mock the Canvas API in Rstest tests.
+- [rstest-fetch-mock](https://github.com/rstackjs/rstest-fetch-mock): Mock the global fetch API in Rstest tests.
 - [effect-rstest](https://github.com/Nsttt/effect-rstest): Effect test helpers for Rstest, with shared layers, test services, and property testing.
+- [rstest-sonar-reporter](https://github.com/onigoetz/rstest-sonar-reporter): A Rstest reporter that outputs test results in SonarQube's Generic Test Execution XML format.
 
 ## Deployment
 
@@ -435,16 +435,16 @@ Rspack and Rsbuild support most of the [unplugin](https://github.com/unplugin), 
 
 ## Libraries
 
-- [@rspack/dev-server](https://github.com/rstackjs/rspack-dev-server): Dev server for Rspack, provides the same API as webpack-dev-server.
 - [@rspack/dev-middleware](https://github.com/rstackjs/rspack-dev-middleware): A development middleware for Rspack.
-- [@rspack/resolver](https://github.com/rstackjs/rspack-resolver): A Rust port of enhanced-resolve.
+- [@rspack/dev-server](https://github.com/rstackjs/rspack-dev-server): Dev server for Rspack, provides the same API as webpack-dev-server.
 - [@rspack/lite-tapable](https://github.com/rstackjs/rspack-lite-tapable): Lite weight tapable for Rspack.
+- [@rspack/resolver](https://github.com/rstackjs/rspack-resolver): A Rust port of enhanced-resolve.
 - [rspack-chain](https://github.com/rstackjs/rspack-chain): A chaining API to generate and simplify the modification of Rspack configurations.
 - [rspack-merge](https://github.com/rstackjs/rspack-merge): Smart configuration merging for Rspack.
-- [Sails Shipwright](https://github.com/sailshq/sails-hook-shipwright) - The modern asset pipeline for [Sails](https://sailsjs.com) powered by Rsbuild.
-- [rspackify](https://github.com/SyMind/rspackify): Experience lightning-fast builds by instantly switching from webpack to Rspack.
-- [Spinpack](https://github.com/denniscual/spinpack): A CLI tool that turbocharges the developer server experience for CRA projects with Rspack.
 - [Jetpack](https://github.com/KidkArolis/jetpack): Jetpack wraps Rspack to create a smoother developer experience.
+- [rspackify](https://github.com/SyMind/rspackify): Experience lightning-fast builds by instantly switching from webpack to Rspack.
+- [Sails Shipwright](https://github.com/sailshq/sails-hook-shipwright) - The modern asset pipeline for [Sails](https://sailsjs.com) powered by Rsbuild.
+- [Spinpack](https://github.com/denniscual/spinpack): A CLI tool that turbocharges the developer server experience for CRA projects with Rspack.
 
 ## Blogs
 
