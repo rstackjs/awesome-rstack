@@ -164,6 +164,7 @@ Upper-level frameworks or libraries that are powered by Rspack or connected to R
 - [html-inline-css-rspack-plugin](https://github.com/cbbfcd/html-inline-css-rspack-plugin) A Rspack plugin to convert external stylesheets into embedded stylesheets.
 - [html-rspack-plugin](https://github.com/rstackjs/html-rspack-plugin): Generate files to serve your Rspack bundles.
 - [html-rspack-skip-assets-plugin](https://github.com/cbbfcd/html-rspack-skip-assets-plugin) Adapt `html-webpack-skip-assets-plugin` to Rspack.
+- [ide-byebye](https://github.com/bo-516/ide-byebye): Rspack and Rsbuild plugin to click an element on the page, describe the change, and send its source location to AI coding agents such as Claude Code, Codex and Cursor.
 - [inject-manifest-plugin](https://github.com/tobua/inject-manifest-plugin): Injects a Workbox PWA manifest into a Service Worker.
 - [node-polyfill-webpack-plugin](https://github.com/Richienb/node-polyfill-webpack-plugin): Polyfill Node.js core modules.
 - [react-cosmos-plugin-rspack](https://github.com/birchill/react-cosmos-plugin-rspack/): Allows building / running React Cosmos using Rspack.
