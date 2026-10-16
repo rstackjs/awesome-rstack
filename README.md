@@ -340,6 +340,7 @@ Rspack and Rsbuild support most of the webpack loaders, such as:
 
 ### Rspress Plugins
 
+- [@kazamori/rspress-plugin-git-diff](https://github.com/kazamori/rspress-plugin-git-diff): Shows the git history of documentation pages: changes marked on the page, a recent changes page, and the history of each page.
 - [@rspress/plugin-algolia](https://rspress.rs/plugin/official-plugins/algolia): Integrates Algolia DocSearch for site search.
 - [@rspress/plugin-api-docgen](https://rspress.rs/plugin/official-plugins/api-docgen): Generates API documentation from TypeScript declarations.
 - [@rspress/plugin-client-redirects](https://rspress.rs/plugin/official-plugins/client-redirects): Supports client-side redirects for moved routes.
