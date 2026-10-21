@@ -167,6 +167,7 @@ Upper-level frameworks or libraries that are powered by Rspack or connected to R
 - [ide-byebye](https://github.com/bo-516/ide-byebye): Rspack and Rsbuild plugin to click an element on the page, describe the change, and send its source location to AI coding agents such as Claude Code, Codex and Cursor.
 - [inject-manifest-plugin](https://github.com/tobua/inject-manifest-plugin): Injects a Workbox PWA manifest into a Service Worker.
 - [node-polyfill-webpack-plugin](https://github.com/Richienb/node-polyfill-webpack-plugin): Polyfill Node.js core modules.
+- [oxc-webpack-plugin](https://github.com/oxc-project/oxc-webpack-plugin): Minify JavaScript assets using Oxc.
 - [react-cosmos-plugin-rspack](https://github.com/birchill/react-cosmos-plugin-rspack/): Allows building / running React Cosmos using Rspack.
 - [rspack-circular-dependency-plugin](https://github.com/Sunny-117/rspack-circular-dependency-plugin): Detect circular dependencies in modules compiled with Rspack.
 - [rspack-deno-plugin](https://github.com/LonelySnowman/rspack-deno-plugin): Make Rspack run correctly in the deno environment.
