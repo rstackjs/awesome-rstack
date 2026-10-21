@@ -458,6 +458,7 @@ Blogs from the Rspack team:
 English blogs:
 
 - [2026-10] [Publishing a JavaScript Library With Rslib](https://blog.openreplay.com/publish-javascript-library-rslib/)
+- [2026-10] [State of Rspack in Angular: 2026 Update](https://edbzn.dev/blog/state-of-rspack-in-angular-2026/)
 - [2026-06] [TanStack Start Adds First-Class Rsbuild Support](https://tanstack.com/blog/start-adds-rsbuild-support)
 - [2026-05] [Yelp Engineering: Optimizing Our Build Times by Migrating from Webpack to Rspack](https://engineeringblog.yelp.com/2026/05/optimizing-our-build-times-by-migrating-from-webpack-to-rspack.html)
 - [2026-03] [Rspress 2.0: AI-Native Documentation, Faster Startup and a Redesigned Theme](https://www.infoq.com/news/2026/03/rspress-docs-2-release)
