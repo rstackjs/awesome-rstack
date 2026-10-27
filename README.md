@@ -376,6 +376,7 @@ Rspack and Rsbuild support most of the webpack loaders, such as:
 - [rspress-plugin-mention-github](https://github.com/hunghg255/rspress-plugin-mention-github): Rspress plugin mention github user, or any link.
 - [rspress-plugin-mermaid](https://github.com/rstackjs/rspress-plugins/tree/main/packages/rspress-plugin-mermaid): Rspress plugin to render [Mermaid](https://mermaid.js.org/#/) diagrams in markdown files.
 - [rspress-plugin-pdf-generator](https://github.com/MaxtuneLee/rspress-plugin-pdf-generator): Generates multi-language single-page or multi-page PDF documents from Rspress site during build process.
+- [rspress-plugin-pinyin-search](https://github.com/buyfakett/rspress-plugin-pinyin-search): Adds local search for Chinese content using full pinyin or pinyin initials.
 - [rspress-plugin-reading-time](https://github.com/rstackjs/rspress-plugins/tree/main/packages/rspress-plugin-reading-time): Rspress plugin to display reading time for your document pages.
 - [rspress-plugin-remote-page](https://github.com/ulivz/rspress-plugin-remote-page): Load remote markdown file (e.g. README.md) onto your website.
 - [rspress-plugin-shiki](https://github.com/hunghg255/rspress-plugin-shiki): Rspress plugin shiki with transformer.
