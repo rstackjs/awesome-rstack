@@ -267,6 +267,7 @@ Rspack and Rsbuild support most of the webpack loaders, such as:
 
 #### Common
 
+- [@agney/rsbuild-content-collections](https://github.com/agneym/rsbuild-content-collections): An Rsbuild plugin for Content Collections.
 - [@devjskit/rsbuild-plugin-langs](https://github.com/devjskit/rsbuild-plugin-langs): Extract content from JSON files and merge into a multi-language file.
 - [@golar-rstack/rsbuild](https://github.com/OskarLebuda/golar-rstack-plugin/tree/main/packages/rsbuild): Runs golar type checking and type-aware linting in a separate process as an Rsbuild plugin.
 - [@module-federation/rsbuild-plugin](https://module-federation.io/guide/basic/rsbuild): An Rsbuild plugin for integrating Module Federation v2.
