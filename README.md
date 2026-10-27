@@ -67,6 +67,7 @@ Upper-level frameworks or libraries that are powered by Rspack or connected to R
 - [EMP 3.0](https://empjs.dev/): A high-performance enterprise-level front-end build system built on the Rust ecosystem.
 - [Esmx](https://github.com/esmnext/esmx): Esmx is a next-generation micro-frontend framework based on native ESM, with no sandbox or runtime overhead, supporting multi-framework hybrid development and providing high-performance server-side rendering capabilities.
 - [Extension.js](https://github.com/extension-js/extension.js): Create, develop, build, and preview browser extensions for Chrome, Firefox, and Edge with Rspack.
+- [Gemkit](https://github.com/mantou132/gem/tree/main/packages/gemkit): A Web Components application framework built on Rsbuild, with file-based routing, layouts, server data and actions, SSR, SSG, ISR and i18n.
 - [Kmi](https://github.com/kmijs/kmi): Based on Umi to provide Rspack support and other best practices.
 - [Meteor](https://github.com/meteor/meteor): An ultra-simple environment for building modern web applications with Rspack.
 - [Modern.js](https://modernjs.dev/): A progressive React framework for web development.
