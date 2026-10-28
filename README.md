@@ -345,48 +345,8 @@ Rspack and Rsbuild support most of the webpack loaders, such as:
 
 ### Rspress Plugins
 
-- [@kazamori/rspress-plugin-git-diff](https://github.com/kazamori/rspress-plugin-git-diff): Shows the git history of documentation pages: changes marked on the page, a recent changes page, and the history of each page.
-- [@rspress/plugin-algolia](https://rspress.rs/plugin/official-plugins/algolia): Integrates Algolia DocSearch for site search.
-- [@rspress/plugin-api-docgen](https://rspress.rs/plugin/official-plugins/api-docgen): Generates API documentation from TypeScript declarations.
-- [@rspress/plugin-client-redirects](https://rspress.rs/plugin/official-plugins/client-redirects): Supports client-side redirects for moved routes.
-- [@rspress/plugin-llms](https://rspress.rs/plugin/official-plugins/llms): Generates `llms.txt` and `llms-full.txt` files for your docs site.
-- [@rspress/plugin-playground](https://rspress.rs/plugin/official-plugins/playground): Provide a real-time playground to preview the code blocks in Markdown/MDX files.
-- [@rspress/plugin-preview](https://rspress.rs/plugin/official-plugins/preview): Support preview of code blocks in Markdown/MDX.
-- [@rspress/plugin-rss](https://rspress.rs/plugin/official-plugins/rss): Generates RSS files for specific document pages with [feed](https://github.com/jpmonette/feed).
-- [@rspress/plugin-sitemap](https://rspress.rs/plugin/official-plugins/sitemap): Generates `sitemap.xml` for your website.
-- [@rspress/plugin-twoslash](https://rspress.rs/plugin/official-plugins/twoslash): Adds TypeScript Twoslash support for code blocks.
-- [@rspress/plugin-typedoc](https://rspress.rs/plugin/official-plugins/typedoc): Integrate [TypeDoc](https://github.com/TypeStrong/typedoc), used to generate API documentation of TS module automatically.
-- [@seshuk/rspress-plugin-scalar](https://github.com/maximseshuk/rspress-plugin-scalar): Renders interactive Scalar API reference pages from OpenAPI specifications.
-- [rspress-language-tabs](https://github.com/maccuaa/rspress-language-tabs): An Rspress component for creating tabbed code examples with programming language icons.
-- [rspress-plugin-align-image](https://github.com/rstackjs/rspress-plugins/tree/main/packages/rspress-plugin-align-image): Rspress plugin to align images in markdown.
-- [rspress-plugin-annotation-words](https://github.com/2heal1/rspress-plugin-annotation-words): An Rspress plugin to support annotation words.
-- [rspress-plugin-auto-sidebar](https://github.com/buyfakett/rspress-plugin-auto-sidebar): Automatically generate the sidebar from the navbar configuration.
-- [rspress-plugin-blog-list](https://github.com/buyfakett/rspress-plugin-blog-list): Integrate blog list into Rspress.
-- [rspress-plugin-changelog](https://github.com/baranwang/rspress-plugin-changelog): Generates changelog pages, fetching release information from GitHub and GitLab repositories.
-- [rspress-plugin-clarity](https://github.com/jl917/rspress-plugin-clarity): Rspress plugin for [Clarity](https://clarity.microsoft.com/) integration.
-- [rspress-plugin-directives](https://github.com/rstackjs/rspress-plugins/tree/main/packages/rspress-plugin-directives): Rspress plugin for custom directives support.
-- [rspress-plugin-file-tree](https://github.com/rstackjs/rspress-plugins/tree/main/packages/rspress-plugin-file-tree): Rspress plugin that add tree view for file structure display.
-- [rspress-plugin-font-figtree](https://github.com/maccuaa/rspress-plugin-font-figtree): Use Figtree as the default font in your Rspress website.
-- [rspress-plugin-font-open-sans](https://github.com/rstackjs/rspress-plugin-font-open-sans): Use Open Sans as the default font in your Rspress website.
-- [rspress-plugin-gh-pages](https://github.com/rstackjs/rspress-plugins/tree/main/packages/rspress-plugin-gh-pages): Rspress plugin to add support for automatic deployment to GitHub Pages.
-- [rspress-plugin-giscus](https://github.com/buyfakett/rspress-plugin-giscus): Integrate [giscus](https://github.com/giscus/giscus) into Rspress, a comment system powered by GitHub Discussions.
-- [rspress-plugin-google-analytics](https://github.com/rstackjs/rspress-plugins/tree/main/packages/rspress-plugin-google-analytics): Rspress plugin for Google Analytics integration.
-- [rspress-plugin-katex](https://github.com/rstackjs/rspress-plugins/tree/main/packages/rspress-plugin-katex): Rspress plugin to add support for rendering math equations using [KaTeX](https://katex.org/).
-- [rspress-plugin-live2d](https://github.com/rstackjs/rspress-plugins/tree/main/packages/rspress-plugin-live2d): Rspress plugin for live2d, powered by [on-my-live2d](https://oml2d.com/).
-- [rspress-plugin-mention-github](https://github.com/hunghg255/rspress-plugin-mention-github): Rspress plugin mention github user, or any link.
-- [rspress-plugin-mermaid](https://github.com/rstackjs/rspress-plugins/tree/main/packages/rspress-plugin-mermaid): Rspress plugin to render [Mermaid](https://mermaid.js.org/#/) diagrams in markdown files.
-- [rspress-plugin-pdf-generator](https://github.com/MaxtuneLee/rspress-plugin-pdf-generator): Generates multi-language single-page or multi-page PDF documents from Rspress site during build process.
-- [rspress-plugin-pinyin-search](https://github.com/buyfakett/rspress-plugin-pinyin-search): Adds local search for Chinese content using full pinyin or pinyin initials.
-- [rspress-plugin-reading-time](https://github.com/rstackjs/rspress-plugins/tree/main/packages/rspress-plugin-reading-time): Rspress plugin to display reading time for your document pages.
-- [rspress-plugin-remote-page](https://github.com/ulivz/rspress-plugin-remote-page): Load remote markdown file (e.g. README.md) onto your website.
-- [rspress-plugin-shiki](https://github.com/hunghg255/rspress-plugin-shiki): Rspress plugin shiki with transformer.
-- [rspress-plugin-sitemap](https://github.com/jl917/rspress-plugin-sitemap): Automatically generate SEO-related sitemaps.
-- [rspress-plugin-supersub](https://github.com/rstackjs/rspress-plugins/tree/main/packages/rspress-plugin-supersub): Rspress plugin to add superscript(`<super></super>`) and subscript(`<sub></sub>`) support.
-- [rspress-plugin-translate](https://github.com/byteHulk/rspress-plugin-translate): Automatically translate your content behind the scenes using GPT's.
-- [rspress-plugin-typesense](https://github.com/typesense/rspress-plugin-typesense): Integrates Typesense for typo-tolerant search.
-- [rspress-plugin-vercel-analytics](https://github.com/rstackjs/rspress-plugins/tree/main/packages/rspress-plugin-vercel-analytics): Rspress plugin for Vercel Analytics integration.
-- [rspress-plugin-viz](https://github.com/elecmonkey/rspress-plugin-viz): Add Graphviz support for Rspress using `@viz-js/viz`.
-- [zephyr-rspress-plugin](https://www.npmjs.com/package/zephyr-rspress-plugin): An Rspress plugin for deploying applications with Zephyr Cloud.
+- [Community plugins](https://rspress.rs/plugin/community-plugins/overview)
+- [Official plugins](https://rspress.rs/plugin/official-plugins/overview)
 
 ### Unplugin
 
