@@ -138,56 +138,7 @@ Upper-level frameworks or libraries that are powered by Rspack or connected to R
 
 ### Rspack Plugins
 
-- [@aaroon/workbox-rspack-plugin](https://github.com/Clarkkkk/workbox-rspack-plugin): A plugin to use workbox in Rspack.
-- [@datadog/rspack-plugin](https://github.com/DataDog/build-plugins): A Rspack plugin to interact with Datadog from your builds.
-- [@golar-rstack/rspack](https://github.com/OskarLebuda/golar-rstack-plugin/tree/main/packages/rspack): Runs golar type checking and type-aware linting in a separate process as an Rspack plugin.
-- [@heyq02/rspack-plugin-git-revision](https://github.com/heyq02/rspack-plugin-git-revision): Rspack and Rsbuild plugin for generating version, commit hash, branch, and last commit time metadata from Git.
-- [@lunora/rspack](https://github.com/anolilab/lunora/tree/alpha/packages/rspack): Rspack and Rsbuild integration for the Lunora realtime backend framework on Cloudflare Workers.
-- [@module-federation/enhanced](https://github.com/module-federation/core/tree/main/packages/enhanced): Provides enhanced features for Module Federation.
-- [@nx/module-federation](https://nx.dev/docs/kb/nx-module-federation-plugin): Includes several Rspack plugins for Nx and Module Federation.
-- [@octanejs/rspack-plugin](https://octanejs.dev/docs/build-tools#rspack): Rspack loader and compiler plugin for Octane TSRX source.
-- [@rsdoctor/rspack-plugin](https://github.com/web-infra-dev/rsdoctor): An Rspack plugin for integrating Rsdoctor.
-- [@rspack/plugin-preact-refresh](https://github.com/rstackjs/rspack-plugin-preact-refresh): Support Preact Refresh.
-- [@rspack/plugin-react-refresh](https://github.com/rstackjs/rspack-plugin-react-refresh): Support React Fast Refresh.
-- [@sentry/webpack-plugin](https://github.com/getsentry/sentry-javascript-bundler-plugins): Provides source map and release management support for Sentry.
-- [@serwist/webpack-plugin](https://github.com/serwist/serwist): generate a manifest of local files for progressive web apps.
-- [@unocss/webpack](https://github.com/unocss/unocss/tree/main/packages-integrations/webpack): Plugin for UnoCSS.
-- [@vanilla-extract/webpack-plugin](https://github.com/vanilla-extract-css/vanilla-extract): Integrating vanilla-extract with webpack / Rspack.
-- [@vue-devtools-rstack/rspack](https://github.com/OskarLebuda/vue-devtools-rstack/tree/main/packages/rspack): Integrates Vue DevTools with raw Rspack setups, with feature parity with `vite-plugin-vue-devtools`.
-- [case-sensitive-paths-webpack-plugin](https://github.com/Urthen/case-sensitive-paths-webpack-plugin): Enforces case sensitive paths of all required modules.
-- [clean-webpack-plugin](https://github.com/johnagan/clean-webpack-plugin): Remove your build folder before building.
-- [code-inspector-plugin](https://github.com/zh-lx/code-inspector): Click an element on the page, it can automatically open the editor and position the cursor to the source code of the element.
-- [compression-rspack-plugin](https://github.com/ramon-villain/compression-rspack-plugin): Rust-native parallel compression plugin for Rspack. Drop-in replacement for compression-webpack-plugin with gzip, brotli, deflate, and deflateRaw — all parallelized across CPU cores via Rust + rayon.
-- [compression-webpack-plugin](https://github.com/webpack/compression-webpack-plugin): Prepare compressed versions of assets to serve them with Content-Encoding.
-- [css-minimizer-webpack-plugin](https://github.com/webpack/css-minimizer-webpack-plugin): Uses cssnano to optimize and minify your CSS.
-- [dotenv-webpack](https://github.com/mrsteele/dotenv-webpack): A secure plugin that supports dotenv and other environment variables.
-- [eslint-rspack-plugin](https://github.com/rstackjs/eslint-rspack-plugin): Rspack plugin to run ESLint checks during the compilation.
-- [html-inline-css-rspack-plugin](https://github.com/cbbfcd/html-inline-css-rspack-plugin) A Rspack plugin to convert external stylesheets into embedded stylesheets.
-- [html-rspack-plugin](https://github.com/rstackjs/html-rspack-plugin): Generate files to serve your Rspack bundles.
-- [html-rspack-skip-assets-plugin](https://github.com/cbbfcd/html-rspack-skip-assets-plugin) Adapt `html-webpack-skip-assets-plugin` to Rspack.
-- [ide-byebye](https://github.com/bo-516/ide-byebye): Rspack and Rsbuild plugin to click an element on the page, describe the change, and send its source location to AI coding agents such as Claude Code, Codex and Cursor.
-- [inject-manifest-plugin](https://github.com/tobua/inject-manifest-plugin): Injects a Workbox PWA manifest into a Service Worker.
-- [node-polyfill-webpack-plugin](https://github.com/Richienb/node-polyfill-webpack-plugin): Polyfill Node.js core modules.
-- [oxc-webpack-plugin](https://github.com/oxc-project/oxc-webpack-plugin): Minify JavaScript assets using Oxc.
-- [react-cosmos-plugin-rspack](https://github.com/birchill/react-cosmos-plugin-rspack/): Allows building / running React Cosmos using Rspack.
-- [rspack-circular-dependency-plugin](https://github.com/Sunny-117/rspack-circular-dependency-plugin): Detect circular dependencies in modules compiled with Rspack.
-- [rspack-deno-plugin](https://github.com/LonelySnowman/rspack-deno-plugin): Make Rspack run correctly in the deno environment.
-- [rspack-manifest-plugin](https://github.com/rstackjs/rspack-manifest-plugin): An Rspack plugin for generating an asset manifest.
-- [rspack-plugin-cli-copy](https://github.com/rstackjs/rspack-plugin-cli-copy): Start the project and automatically copy the network URL of the terminal.
-- [rspack-plugin-mock](https://github.com/pengzhanbo/rspack-plugin-mock): Rspack and Rsbuild plugin for API mock dev server.
-- [rspack-plugin-retry-chunk-load](https://github.com/khodorammar/rspack-plugin-retry-chunk-load) Retry loading of chunks that failed to load.
-- [rspack-plugin-solid-svg](https://github.com/solarlime/rspack-plugin-solid-svg): Rspack plugin for transforming SVG files into SolidJS components.
-- [rspack-plugin-svg-sprite](https://www.npmjs.com/package/rspack-plugin-svg-sprite): SVG sprite plugin for Rspack — drop-in replacement for svg-sprite-loader.
-- [rspack-plugin-virtual-module](https://github.com/rstackjs/rspack-plugin-virtual-module): An Rspack plugin that allows you to create virtual modules.
-- [rspack-s3-plugin](https://github.com/ts-codeworks/rspack-s3-plugin): A Rspack plugin for uploading compiled assets to Amazon S3 after build.
-- [rspack-unocss-plugin](https://github.com/umbrella22/rspack-unocss-plugin): Native UnoCSS integration for Rspack with virtual CSS modules and native CSS processing.
-- [rtlcss-rspack-plugin](https://github.com/cbbfcd/rtlcss-rspack-plugin): Rspack plugin to create a second css bundle, processed to be rtl.
-- [sonda](https://github.com/filipsobol/sonda): Visualizer and analyzer for JavaScript and CSS bundles.
-- [ts-checker-rspack-plugin](https://github.com/rstackjs/ts-checker-rspack-plugin): Runs TypeScript type checker on a separate process.
-- [typia-rspack-plugin](https://github.com/colinaaa/typia-rspack-plugin): A Rspack plugin for `typia` - TypeScript transformer for runtime type checking and validation.
-- [webpack-bundle-analyzer](https://github.com/webpack/webpack-bundle-analyzer): Visualize size of webpack output files with an interactive zoomable treemap.
-- [webpackbar](https://github.com/unjs/webpackbar): Elegant ProgressBar and Profiler for Rspack.
-- [zephyr-rspack-plugin](https://www.npmjs.com/package/zephyr-rspack-plugin): An Rspack plugin for deploying applications with Zephyr Cloud.
+See the [Rspack community plugin list](https://rspack.rs/guide/start/ecosystem#community-plugins).
 
 ### Rspack Loaders
 
