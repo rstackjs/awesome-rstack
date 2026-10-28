@@ -191,33 +191,7 @@ Upper-level frameworks or libraries that are powered by Rspack or connected to R
 
 ### Rspack Loaders
 
-Rspack and Rsbuild support most of the webpack loaders, such as:
-
-- [@mdx-js/loader](https://github.com/mdx-js/mdx/tree/main/packages/loader): Loader for MDX.
-- [@svgr/webpack](https://github.com/gregberge/svgr/tree/main/packages/webpack): Loader for SVGR.
-- [@tailwindcss/webpack](https://github.com/tailwindlabs/tailwindcss/tree/main/packages/%40tailwindcss-webpack): A webpack loader for Tailwind CSS v4.
-- [@vue-vine/rspack-loader](https://github.com/vue-vine/vue-vine): Rspack loader for Vue Vine.
-- [babel-loader](https://github.com/babel/babel-loader): Transpiling JavaScript files using Babel.
-- [coffee-loader](https://www.npmjs.com/package/coffee-loader): Compile CoffeeScript to JavaScript.
-- [css-loader](https://github.com/webpack/css-loader): Interprets @import and url() in CSS files and resolve them.
-- [html-loader](https://www.npmjs.com/package/html-loader): Exports HTML as string.
-- [imports-loader](https://www.npmjs.com/package/imports-loader): Use modules that depend on specific global variables.
-- [less-loader](https://github.com/webpack/less-loader): Compiles Less to CSS.
-- [node-loader](https://www.npmjs.com/package/node-loader): Allows to connect native node modules with .node extension.
-- [oxc-webpack-loader](https://github.com/oxc-project/oxc-webpack-loader): Uses Oxc for fast JavaScript and TypeScript transformation.
-- [postcss-loader](https://github.com/webpack/postcss-loader): Loader to process CSS with PostCSS.
-- [react-compiler-webpack](https://github.com/SukkaW/react-compiler-webpack): The webpack / Rspack loader for React Compiler.
-- [rsbuild-plugin-markdown-loader](https://github.com/aliezzahn/rsbuild-plugin-markdown-loader): Importing and rendering Markdown files as React components or pure HTML.
-- [rspack-vue-loader](https://github.com/rstackjs/rspack-vue-loader): Vue loader for Rspack.
-- [sass-loader](https://github.com/webpack/sass-loader): Compiles Sass/SCSS files to CSS.
-- [source-map-loader](https://github.com/webpack-contrib/source-map-loader): Extracts source maps from existing source files.
-- [style-loader](https://github.com/webpack/style-loader): Inject CSS into the DOM.
-- [stylus-loader](https://github.com/webpack/stylus-loader): Compiles Stylus to CSS.
-- [svelte-loader](https://github.com/sveltejs/svelte-loader): Loader for svelte components.
-- [svg-react-loader](https://github.com/jhamlet/svg-react-loader): Turn SVGs into React Components.
-- [svgo-loader](https://github.com/svg/svgo-loader): Loader for SVGO.
-- [worker-rspack-loader](https://github.com/rstackjs/worker-rspack-loader): An Rspack loader that registers a script as a Web Worker.
-- [yaml-loader](https://github.com/eemeli/yaml-loader): Allows importing YAML files as JS objects.
+See the [Rspack loader list](https://rspack.rs/guide/start/ecosystem#loaders) for community loaders.
 
 ### Rsbuild Plugins
 
