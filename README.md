@@ -114,6 +114,7 @@ Upper-level frameworks or libraries that are powered by Rspack or connected to R
 - [@trapar-waves/react-tanstack](https://github.com/Trapar-waves/react-tanstack): A React template leveraging TanStack tools, with TypeScript, Tailwind CSS, and Rsbuild integration.
 - [@trapar-waves/vue-tailwind](https://github.com/Trapar-waves/vue-tailwind): A Vue 3 project with Tailwind CSS, Rsbuild and modern development tools.
 - [ding-dong](https://github.com/buildbysarthak/ding-dong): A lightning-fast, modern React template supercharged with Rsbuild.
+- [mfeflow](https://github.com/mfeflow/starter): A React micro-frontend starter on Rsbuild and Module Federation 2, made by the mfeflow CLI, with a shell, two remotes, typed env, tests and CI.
 - [react-antd-admin-pro](https://github.com/cl1107/react-antd-admin-pro): An admin project template for React. It's built with Rsbuild, React 18, TypeScript 5, antd 5, and React Router.
 - [react-nestjs-ssr-starter](https://github.com/pikadun/react-nestjs-ssr-starter): A lightweight full-stack starter for server-side rendering with NestJS and React.
 - [react-tailwind-rsbuild-boilerplate](https://github.com/alonronin/react-tailwind-rsbuild-boilerplate): React + React Router + Tailwind CSS with Rsbuild boilerplate.
