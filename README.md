@@ -229,12 +229,16 @@ English blogs:
 
 - [2026-10] [Publishing a JavaScript Library With Rslib](https://blog.openreplay.com/publish-javascript-library-rslib/)
 - [2026-10] [State of Rspack in Angular: 2026 Update](https://edbzn.dev/blog/state-of-rspack-in-angular-2026/)
+- [2026-07] [RSPack 2.0: Performance Gains, Leaner Dependencies and ESM Core](https://www.infoq.com/news/2026/07/rspack-2-release/)
 - [2026-06] [TanStack Start Adds First-Class Rsbuild Support](https://tanstack.com/blog/start-adds-rsbuild-support)
 - [2026-05] [Yelp Engineering: Optimizing Our Build Times by Migrating from Webpack to Rspack](https://engineeringblog.yelp.com/2026/05/optimizing-our-build-times-by-migrating-from-webpack-to-rspack.html)
 - [2026-03] [Rspress 2.0: AI-Native Documentation, Faster Startup and a Redesigned Theme](https://www.infoq.com/news/2026/03/rspress-docs-2-release)
 - [2026-01] [Transforming SVGs to Vue and Svelte Components: The SVGR Alternative for Rsbuild](https://hackernoon.com/transforming-svgs-to-vue-and-svelte-components-the-svgr-alternative-for-rsbuild)
-- [2025-12] [Goodbye Webpack, Hello Rspack (and 80% Faster Builds)](https://developers.mews.com/goodbye-webpack-hello-rspack-and-80-faster-builds/)
+- [2025-10] [Goodbye Webpack, Hello Rspack (and 80% Faster Builds)](https://developers.mews.com/goodbye-webpack-hello-rspack-and-80-faster-builds/)
 - [2025-12] [The JavaScript Bundler Grand Prix](https://redmonk.com/kholterhoff/2025/12/16/javascript-bundler-grand-prix/)
+- [2025-09] [Boosting build speed by over 50% by migrating to Rsbuild](https://tech.yellow.ai/p/boosting-build-speed-by-over-50-by)
+- [2025-09] [Modern Webpack Boilerplate: Part 4: Migration to RsBuild](https://sordyl.dev/blog/modern-webpack-part-4-rsbuild-migration/)
+- [2025-08] [Re.Pack 5.2: Faster Babel Transforms, RN 0.80 & 0.81, Rozenite](https://www.callstack.com/blog/re-pack-5-2-faster-babel-transforms-support-for-rn-0-80-0-81-rozenite)
 - [2025-08] [Rspack Introduces Rslint, a TypeScript-First Linter Written in Go](https://socket.dev/blog/rspack-introduces-rslint-a-typescript-first-linter-written-in-go)
 - [2025-08] [Question-based web performance analysis using rsdoctor/mcp-server](https://dev.to/husdev/question-based-web-performance-analysis-using-rsdoctormcp-server-325a)
 - [2025-08] [Rust Tools That Made Our Dev Team Productive Again](https://dev.to/programmerraja/rust-tools-that-made-our-dev-team-productive-again-479)
@@ -268,6 +272,7 @@ English blogs:
 
 Chinese blogs (中文):
 
+- [2025-11] [从 Webpack 迁移到 Rspack 的实践记录](https://daief.tech/post/migrate-to-rspack/)
 - [2025-04] [从 Vite 到 Rsbuild：一次意想不到的构建性能飞跃](https://juejin.cn/post/7496345478658637865)
 - [2024-10] [我把大型团队项目从 Vite 前端迁移到了 Rsbuild，收益如何？](https://juejin.cn/post/7425804396292325414)
 - [2024-09] [[译] 一个关于打包工具的故事：从 webpack 迁移到 Rspack](https://juejin.cn/post/7425598941859676170)
@@ -277,9 +282,11 @@ Chinese blogs (中文):
 
 Japanese blogs (日本語):
 
+- [2026-02] [コスパ良くフロントエンドビルド改善: webpackからRspackへの移行事例](https://tech.furyu.jp/entry/2026/02/26/134032)
 - [2025-11] [KARTEの分析システムのレガシーな開発環境を高速にする。pnpm, Rspackの導入で改善できたこと。](https://tech.plaid.co.jp/speedup-pnpm-rspack)
 - [2025-08] [Rails アプリケーションのフロントエンドを webpack から Rspack に移行しました](https://tech.synchro-food.co.jp/entry/2025/08/18/180000)
 - [2025-04] [Rspack に移行したらフロントエンドのビルドがめっちゃ速くなりました](https://buildersbox.corp-sansan.com/entry/2025/04/14/110000)
+- [2025-04] [爆速スッキリ！Rspack移行の成果と道のり / Muddy Web #11 ~Special Edition~ 【ゲスト: Cybozu】](https://developers.cyberagent.co.jp/blog/archives/55753/)
 - [2026-05] [Rsbuildで組むVueのVRMコンポーネント。ライセンスと配信の安全性を追求したライブラリ設計](https://qiita.com/logue/items/21bb239fed2c4f4a3b2f)
 - [2026-05] [なぜRsbuildスタックなのか？](https://qiita.com/logue/items/e191ed56e922b33e4c8f)
 
@@ -291,6 +298,7 @@ French blogs (Français):
 
 - [2025-04]: [Zack Jackson - ByteDance, rspack, and the Future of Web Development](https://www.youtube.com/watch?v=Uo1Gf_32MK0)
 - [2025-04]: [It’s Not Out Yet… But Rstest Has Me HYPED](https://www.youtube.com/watch?v=nhSCmYJew-M)
+- [2025-03]: [爆速スッキリ！Rspack移行の成果と道のり / Muddy Web #11 ~Special Edition~ 【ゲスト: Cybozu】](https://www.youtube.com/watch?v=Hp3kelJxVc8)
 - [2025-01]: [Let’s Learn Rsbuild and Rspack](https://www.youtube.com/watch?v=wJ3abFp701k)
 - [2025-01]: [Micro-Frontends in React-Native! Game Changer for Mobile Apps](https://www.youtube.com/watch?v=Lp-5wSsd5Do)
 - [2024-11]: [Everything You Ever Wanted To Know About Web Bundlers (and Rspack!)](https://www.youtube.com/watch?v=ma_c6UNHddI)
