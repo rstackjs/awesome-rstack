@@ -228,6 +228,7 @@ Blogs from the Rspack team:
 
 English blogs:
 
+- [2026-11] [Rails + Rspack: esbuild speed, webpack features, one command](https://dev.to/tungnt1203/rails-rspack-esbuild-speed-webpack-features-one-command-4652)
 - [2026-10] [Publishing a JavaScript Library With Rslib](https://blog.openreplay.com/publish-javascript-library-rslib/)
 - [2026-10] [State of Rspack in Angular: 2026 Update](https://edbzn.dev/blog/state-of-rspack-in-angular-2026/)
 - [2026-07] [RSPack 2.0: Performance Gains, Leaner Dependencies and ESM Core](https://www.infoq.com/news/2026/07/rspack-2-release/)
