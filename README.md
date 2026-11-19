@@ -78,6 +78,7 @@ Upper-level frameworks or libraries that are powered by Rspack or connected to R
 - [Re.Pack](https://github.com/callstack/repack): A toolkit to build your React Native application with Rspack.
 - [Rselectron](https://github.com/guangzan/rselectron): An Rsbuild-first Electron development and build tool.
 - [Rshono](https://github.com/rshono/rshono): Minimalist web framework based on Hono, Rspack and React Server Components.
+- [rspack_rails](https://github.com/tungnt1203/rspack_rails): Bundle Ruby on Rails apps with Rspack, with hot module replacement in development and the asset pipeline (Propshaft or Sprockets) in production.
 - [Rspeedy](https://lynxjs.org/rspeedy/): The Rspack-based build tool designed specifically for [Lynx](https://lynxjs.org/) applications.
 - [serverless-rspack](https://github.com/kitchenshelf/serverless-rspack): A Serverless framework plugin for zero-config JavaScript and TypeScript code bundling using the high performance Rust-based JavaScript bundler rspack.
 - [Shakapacker](https://github.com/shakacode/shakapacker): Make it easy to use the JavaScript pre-processor and Rspack to manage frontend JavaScript in Rails.
